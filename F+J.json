@@ -1,0 +1,717 @@
+[
+  {
+    "q": "A 27-year-old patient exhibits a loss of skin sensation and paralysis of muscles on the plantar aspect of the medial side of the foot. Which of the following nerves is most likely damaged?",
+    "o": [
+      "Common peroneal",
+      "Tibial",
+      "Superﬁcial peroneal",
+      "Deep peroneal",
+      "Sural"
+    ],
+    "a": 1,
+    "e": "The medial plantar nerve, which supplies the medial aspect of the sole (skin and muscles), is a direct terminal branch of the tibial nerve."
+  },
+  {
+    "q": "A patient presents with sensory loss on adjacent sides of the great and second toes and impaired dorsiﬂexion of the foot. These signs probably indicate damage to which of the following nerves?",
+    "o": [
+      "Superﬁcial peroneal",
+      "Lateral plantar",
+      "Deep peroneal",
+      "Sural",
+      "Tibial"
+    ],
+    "a": 2,
+    "e": "The deep peroneal (fibular) nerve innervates the anterior compartment (dorsiflexors) and provides sensory innervation exclusively to the first web space between the great and second toes."
+  },
+  {
+    "q": "A 21-year-old man was involved in a motorcycle accident, resulting in destruction of the groove in the lower surface of the cuboid bone. Which of the following muscle tendons is most likely damaged?",
+    "o": [
+      "Flexor hallucis longus",
+      "Peroneus brevis",
+      "Peroneus longus",
+      "Tibialis anterior",
+      "Tibialis posterior"
+    ],
+    "a": 2,
+    "e": "The tendon of the peroneus longus muscle passes obliquely across the sole of the foot, running through a distinct groove on the plantar surface of the cuboid bone."
+  },
+  {
+    "q": "A construction worker falls feet ﬁrst from a roof. He sustains a fracture of the groove on the undersurface of the sustentaculum tali of the calcaneus bone. Which of the following muscle tendons is most likely torn?",
+    "o": [
+      "Flexor digitorum brevis",
+      "Flexor digitorum longus",
+      "Flexor hallucis brevis",
+      "Flexor hallucis longus",
+      "Tibialis posterior"
+    ],
+    "a": 3,
+    "e": "The tendon of the flexor hallucis longus passes directly under the sustentaculum tali, using its groove as a pulley before entering the sole of the foot."
+  },
+  {
+    "q": "A 34-year-old woman sustains a deep cut on the dorsum of the foot just distal to her ankle joint by a falling kitchen knife. A physician in the emergency department has ligated the dorsalis pedis artery proximal to the injured area. Which of the following conditions most likely occurs as a result of the injury?",
+    "o": [
+      "Ischemia in the peroneus longus muscle",
+      "Aneurysm in the plantar arterial arch",
+      "Reduction of blood ﬂow in the medial tarsal artery",
+      "Low blood pressure in the anterior tibial artery",
+      "High blood pressure in the arcuate artery"
+    ],
+    "a": 2,
+    "e": "Ligating the dorsalis pedis proximal to the injury cuts off direct forward flow to its branches, including the medial tarsal, lateral tarsal, arcuate, and deep plantar arteries."
+  },
+  {
+    "q": "A 10-year-old boy falls from a tree house. The resultant heavy compression of the sole of his foot against the ground caused a fracture of the head of the talus. Which of the following structures is unable to function normally?",
+    "o": [
+      "Transverse arch",
+      "Medial longitudinal arch",
+      "Lateral longitudinal arch",
+      "Tendon of the peroneus longus",
+      "Long plantar ligament"
+    ],
+    "a": 1,
+    "e": "The head of the talus is the highest point and the keystone of the medial longitudinal arch of the foot."
+  },
+  {
+    "q": "A construction worker is hit on the leg with a concrete block and is subsequently unable to plantar ﬂex and invert his foot. Which of the following muscles is most likely damaged?",
+    "o": [
+      "Extensor digitorum longus",
+      "Tibialis anterior",
+      "Tibialis posterior",
+      "Peroneus longus",
+      "Peroneus brevis"
+    ],
+    "a": 2,
+    "e": "Tibialis posterior is a powerful muscle of the deep posterior compartment that serves as the principal invertor and assists in plantarflexion of the foot."
+  },
+  {
+    "q": "A 32-year-old carpenter fell from the roof. The lateral longitudinal arch of his foot was ﬂattened from fracture and displacement of the keystone for the arch. Which of the following bones is damaged?",
+    "o": [
+      "Calcaneus",
+      "Cuboid bone",
+      "Head of the talus",
+      "Medial cuneiform",
+      "Navicular bone"
+    ],
+    "a": 1,
+    "e": "The cuboid bone acts as the keystone (the central supporting bone) for the lateral longitudinal arch of the foot."
+  },
+  {
+    "q": "The lateral compartment of the foot contains which of the following muscles?",
+    "o": [
+      "abductor digiti minimi brevis",
+      "ﬂexor hallucis brevis",
+      "quadratus plantae",
+      "ﬂexor hallucis longus",
+      "abductor hallucis"
+    ],
+    "a": 0,
+    "e": "The lateral compartment of the sole contains muscles acting on the little toe, including the abductor digiti minimi."
+  },
+  {
+    "q": "The central compartment of the foot contains all of the following muscles EXCEPT",
+    "o": [
+      "ﬂexor digitorum brevis",
+      "ﬂexor digitorum longus",
+      "quadratus plantae",
+      "abductor hallucis"
+    ],
+    "a": 3,
+    "e": "The abductor hallucis is located within the medial compartment of the foot, not the central compartment."
+  },
+  {
+    "q": "The medial plantar nerve is a terminal branch of which of the following nerves?",
+    "o": [
+      "femoral",
+      "tibial",
+      "ﬁbular",
+      "obturator",
+      "sural"
+    ],
+    "a": 1,
+    "e": "The tibial nerve divides beneath the flexor retinaculum into the medial and lateral plantar nerves."
+  },
+  {
+    "q": "All of the following statements concerning the saphenous nerve are correct EXCEPT",
+    "o": [
+      "It is the largest cutaneous branch of the femoral nerve.",
+      "It passes anterior to the medial malleolus to the dorsum of the foot.",
+      "It supplies skin along the medial side of the foot.",
+      "It supplies skin on the anterior and medial side of the leg.",
+      "It innervates the muscles of the foot in the medial compartment of the foot."
+    ],
+    "a": 4,
+    "e": "The saphenous nerve is a purely sensory nerve; it does not provide motor innervation to any muscles in the foot."
+  },
+  {
+    "q": "The following facts concerning the dorsalis pedis artery are correct except:",
+    "o": [
+      "It is a continuation of the anterior tibial artery",
+      "It enters the sole of the foot by passing between the two heads of the first dorsal interosseous muscle",
+      "It can be palpated on the dorsum of the foot between the tendons of tibialis anterior and extensor hallucis longus muscle",
+      "It joins the lateral planter artery",
+      "On its lateral side lies the terminal part of the deep peroneal nerve"
+    ],
+    "a": 2,
+    "e": "The dorsalis pedis pulse is palpated between the tendons of the extensor hallucis longus and extensor digitorum longus, not tibialis anterior."
+  },
+  {
+    "q": "The lymph drainage of the skin covering the ball of the big toe is into the:",
+    "o": [
+      "Vertical group of superficial inguinal nodes",
+      "Popliteal nodes",
+      "Horizontal group superficial inguinal nodes",
+      "Axillary nodes",
+      "Internal iliac nodes"
+    ],
+    "a": 0,
+    "e": "Lymphatic vessels from the medial side of the foot follow the great saphenous vein to drain into the vertical group of superficial inguinal nodes."
+  },
+  {
+    "q": "If the dorsalis pedis artery is severed just proximal to its medial and lateral tarsal branches, blood can still reach the dorsum of the foot through which of the following vessels?",
+    "o": [
+      "The peroneal artery",
+      "The posterior tibial artery",
+      "The medial planter artery",
+      "The lateral planter artery",
+      "All of the above"
+    ],
+    "a": 4,
+    "e": "Extensive anastomoses exist around the ankle and foot. Perforating peroneal branches and retrograde flow from the plantar arch (via posterior tibial) supply collateral circulation."
+  },
+  {
+    "q": "The dermantome present over the lateral side of the foot is:",
+    "o": [
+      "S5",
+      "L3",
+      "S1",
+      "L4",
+      "L5"
+    ],
+    "a": 2,
+    "e": "The S1 dermatome supplies the lateral margin of the foot and the little toe."
+  },
+  {
+    "q": "Which of the following does not insert into the planter aspect of the foot?",
+    "o": [
+      "Flexor digitorum longus",
+      "Peroneus tertias",
+      "Peroneus longus",
+      "Tibialis posterior",
+      "Flexor hallucis longus"
+    ],
+    "a": 1,
+    "e": "Peroneus tertius inserts onto the dorsal surface of the base of the fifth metatarsal, not the plantar aspect."
+  },
+  {
+    "q": "Which of the following muscles does not arise from the calcaneus?",
+    "o": [
+      "Flexor digitorum brevis",
+      "Extensor digitorum brevis",
+      "Flexor accessorius",
+      "Flexor hallucis brevis",
+      "Abductor hallucis"
+    ],
+    "a": 3,
+    "e": "Flexor hallucis brevis originates from the plantar surfaces of the cuboid and lateral cuneiform bones, not the calcaneus."
+  },
+  {
+    "q": "Which of the following nerve/vessel pairs are INCORRECT:",
+    "o": [
+      "Sural nerve/ short saphenous vein",
+      "Superficial peroneal nerve/ peroneal artery",
+      "Tibial nerve/ posterior tibial artery",
+      "Deep peroneal nerve/ anterior tibial artery",
+      "Tibial nerve/ popliteal artery"
+    ],
+    "a": 1,
+    "e": "The superficial peroneal nerve is in the lateral compartment, while the peroneal artery is deeply situated in the posterior compartment."
+  },
+  {
+    "q": "The foot receives cutaneous innervation from:",
+    "o": [
+      "Sural nerve",
+      "Medial planter nerve",
+      "Saphenous nerve",
+      "Deep peroneal nerve",
+      "All of the above"
+    ],
+    "a": 4,
+    "e": "All listed nerves contribute to the sensory cutaneous innervation of various regions of the foot."
+  },
+  {
+    "q": "The interossei of the foot",
+    "o": [
+      "Are all involved in abduction of toes",
+      "Originate from adjacent side of proximal phalanges 2-4",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "a": 3,
+    "e": "Plantar interossei ADDUCT the toes, and interossei originate from the metatarsal bones, not the phalanges."
+  },
+  {
+    "q": "Which is/are not innervated by lateral plantar nerves?",
+    "o": [
+      "Adductor hallucis",
+      "Abductor digiti minimi",
+      "Flexor digitorum brevis",
+      "Fourth lumbrical",
+      "All of the above"
+    ],
+    "a": 2,
+    "e": "Flexor digitorum brevis is innervated by the medial plantar nerve."
+  },
+  {
+    "q": "Which of the following is a branch of the posterior tibial artery?",
+    "o": [
+      "Dorsalis pedis artery",
+      "Peroneal artery",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "a": 1,
+    "e": "The peroneal (fibular) artery is the largest branch of the posterior tibial artery."
+  },
+  {
+    "q": "The short muscles of the first layer of the sole are:",
+    "o": [
+      "Flexor digitorum brevis",
+      "Abductor hallucis",
+      "Abductor digit minimi",
+      "All of the above",
+      "None of the above"
+    ],
+    "a": 3,
+    "e": "The first (most superficial) muscular layer of the sole consists of Abductor hallucis, Flexor digitorum brevis, and Abductor digiti minimi."
+  },
+  {
+    "q": "The muscles of the first layer of the sole are innervated by:",
+    "o": [
+      "Medial planter nerve",
+      "Lateral planter nerve",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "a": 2,
+    "e": "Abductor hallucis and FDB are supplied by the medial plantar nerve; Abductor digiti minimi is supplied by the lateral plantar nerve."
+  },
+  {
+    "q": "The medial longitudinal arch of the foot involves the:",
+    "o": [
+      "Spring ligament",
+      "Navicular bone",
+      "Cuboid bone",
+      "Both A and B",
+      "All of the above"
+    ],
+    "a": 3,
+    "e": "The navicular bone is a key bony component of the medial arch, and the spring ligament supports its keystone (the talus head)."
+  },
+  {
+    "q": "Regarding the lateral planter nerve:",
+    "o": [
+      "Proximal part runs between first and second muscular layers of the foot",
+      "Distal part runs between second and third muscular layers of the foot",
+      "Supplies lateral 3 1/2 toes on the planter aspect",
+      "Is corresponding to the median nerve in the hand",
+      "Supplies first and second lumbricals"
+    ],
+    "a": 0,
+    "e": "The main trunk of the lateral plantar nerve courses obliquely between the first layer (FDB) and the second layer (Flexor accessorius)."
+  },
+  {
+    "q": "The medal plantar nerve is a branch of the:",
+    "o": [
+      "femoral",
+      "obturator",
+      "common peroneal",
+      "tibial",
+      "none of above"
+    ],
+    "a": 3,
+    "e": "It is the larger of the two terminal branches of the tibial nerve."
+  },
+  {
+    "q": "The dorsalis pedis artery is usually a direct continuation of which artery?",
+    "o": [
+      "femoral",
+      "posterior tibial",
+      "peroncal",
+      "anterior tibial",
+      "popleteal"
+    ],
+    "a": 3,
+    "e": "The anterior tibial artery changes its name to dorsalis pedis as it crosses the ankle joint."
+  },
+  {
+    "q": "Structure closest to the skin of the sole:",
+    "o": [
+      "Flexor digitorum brevis",
+      "Qudratus plantae",
+      "Planter aponeurosis",
+      "Tendon of flexor digitorum longus",
+      "flexor retenaculum"
+    ],
+    "a": 2,
+    "e": "The plantar aponeurosis is a thick modification of deep fascia located immediately deep to the subcutaneous tissue of the sole."
+  },
+  {
+    "q": "Regarding nerve supply of the lower limb:",
+    "o": [
+      "superficial peroneal nerve supplies the muscles in the anterior compartment of the leg",
+      "the cruciate ligaments are supplied by the tibial nerve",
+      "the obturator nerve supplies obturator internus muscle",
+      "the sciatic nerve does not make contact with bone",
+      "the tibial part of the sciatic nerve is the sole supply to muscles in the hamstring compartment"
+    ],
+    "a": 1,
+    "e": "The tibial nerve provides articular branches (including the middle genicular nerve) that supply the cruciate ligaments inside the knee."
+  },
+  {
+    "q": "Regarding flexor digitorum longus:",
+    "o": [
+      "its four tendons divide under the flexor retinaculum",
+      "it arises from the tibia and interosseous membrane only",
+      "the medial two tendons receive a strong slip from the tendon of flexor hallucis longus",
+      "the tendons have no flexor sheaths",
+      "it inserts into the bases of the middle phalanges"
+    ],
+    "a": 2,
+    "e": "In the sole of the foot, the tendon of FHL crosses deep to FDL and gives a strong tendinous slip to the FDL tendons (usually for toes 2 and 3)."
+  },
+  {
+    "q": "The myotome for plantar flexion of the great toe is:",
+    "o": [
+      "L3, 4",
+      "L4, 5",
+      "L5, S1",
+      "S1, 2",
+      "S2, 3"
+    ],
+    "a": 3,
+    "e": "Flexion of the toes is primarily controlled by the S1 and S2 myotomes via the tibial nerve."
+  },
+  {
+    "q": "Following an injury to the leg, a patient is unable to dorsiflex their foot. Which nerve is most likely to be damaged?",
+    "o": [
+      "the deep branch of the common peroneal nerve",
+      "the sural nerve",
+      "the superficial branch of the common peroneal nerve",
+      "the saphenous nerve",
+      "none of the above"
+    ],
+    "a": 0,
+    "e": "The deep peroneal (fibular) nerve innervates all the dorsiflexor muscles of the anterior compartment."
+  },
+  {
+    "q": "Regarding the foot, all of the following statements are true EXCEPT:",
+    "o": [
+      "the tibialis posterior muscle inverts and adducts the forefoot",
+      "the tibialis posterior muscle plantarflex the ankle joint",
+      "the tibialis anterior muscle dorsiflex the ankle and inverts the foot",
+      "all interossei muscles are supplied by the lateral plantar nerve",
+      "calcaneal branches of the deep peroneal nerve supply the skin of the heel"
+    ],
+    "a": 4,
+    "e": "The skin of the heel is supplied by medial calcaneal branches from the tibial nerve and lateral calcaneal branches from the sural nerve."
+  },
+  {
+    "q": "Which of the following is NOT a component of the second layer of the sole of the foot?",
+    "o": [
+      "tendon of flexor hallucis longus",
+      "abductor hallucis",
+      "flexor accessorius",
+      "the lumbrical muscles",
+      "tendon of flexor digitorum longus"
+    ],
+    "a": 1,
+    "e": "Abductor hallucis is a superficial muscle belonging to the first layer of the plantar foot."
+  },
+  {
+    "q": "The dorsalis pedis artery is:",
+    "o": [
+      "lateral to extensor hallucis longus at the ankle",
+      "medial to extensor hallucis longus at the ankle",
+      "medial to tibialis anterior at the ankle",
+      "found perforating the first metatarsal space and joining with the medial plantar artery",
+      "lateral to the digital branch of the deep peroneal nerve"
+    ],
+    "a": 0,
+    "e": "At the front of the ankle, the artery lies comfortably between the tendons of Extensor Hallucis Longus (medially) and Extensor Digitorum Longus (laterally)."
+  },
+  {
+    "q": "The sole of the foot has a cutaneous nerve supply derived from:",
+    "o": [
+      "L4, L5, S1 and S2",
+      "L5 and S1",
+      "L4, L5 and S1",
+      "L4 and L5",
+      "L5, S1 and S2"
+    ],
+    "a": 0,
+    "e": "The sole is supplied by branches corresponding to dermatomes L4, L5 (saphenous/medial plantar) and S1, S2 (sural/lateral plantar/calcaneal)."
+  },
+  {
+    "q": "If the common peroneal nerve is divided the following are lost:",
+    "o": [
+      "plantar flexion of toes",
+      "inversion of foot",
+      "dorsiflexion of foot",
+      "plantar flexion of foot",
+      "there is no loss of cutaneous sensation"
+    ],
+    "a": 2,
+    "e": "Severing the common peroneal nerve paralyzes the anterior compartment muscles, resulting in foot drop (loss of dorsiflexion)."
+  },
+  {
+    "q": "The dorsalis pedis artery:",
+    "o": [
+      "lies medial to the tendon of extensor hallucis longus",
+      "lies lateral to the detail branch of the deep peroneal nerve",
+      "crosses superficial to the tendon of extensor hallucis brevis",
+      "terminates at the arcuate artery",
+      "joins the lateral plantar artery to form the plantar arch"
+    ],
+    "a": 4,
+    "e": "Its terminal deep plantar branch pierces the first interosseous space to complete the deep plantar arch by joining the lateral plantar artery."
+  },
+  {
+    "q": "Which of the following statements correctly applies to genu valgum?",
+    "o": [
+      "The tibia is diverted medially.",
+      "The tibia is diverted laterally.",
+      "The medial side of the knee takes all the pressure.",
+      "This deformity causes wear and tear of the medial meniscus.",
+      "This deformity does not inﬂuence weight distribution."
+    ],
+    "a": 1,
+    "e": "In genu valgum (knock-knee), the anatomical axis is shifted such that the distal tibia is diverted laterally away from the midline."
+  },
+  {
+    "q": "Which of the following knee support structures is considered to be the most important in the stabilization of the joint?",
+    "o": [
+      "lateral and medial menisci",
+      "anterior and posterior cruciate ligaments",
+      "medial and lateral collateral ligaments",
+      "ﬁbrous capsule",
+      "quadriceps femoris"
+    ],
+    "a": 4,
+    "e": "The muscle tone of the quadriceps femoris, especially vastus medialis and lateralis, is the single most critical active stabilizer of the knee."
+  },
+  {
+    "q": "Which of the following fractures is the most troublesome and problematic?",
+    "o": [
+      "medial malleolus of tibia",
+      "lateral malleolus of ﬁbula",
+      "sustentaculum of calcaneus",
+      "femoral neck",
+      "adductor tubercle"
+    ],
+    "a": 3,
+    "e": "Femoral neck fractures frequently disrupt the retinacular vessels supplying the femoral head, leading to a high risk of avascular necrosis."
+  },
+  {
+    "q": "Which of the following muscles is the strongest ﬂexor of the hip joint?",
+    "o": [
+      "semitendinosus",
+      "iliopsoas",
+      "gluteus medius",
+      "gracilis",
+      "pectineus"
+    ],
+    "a": 1,
+    "e": "The iliopsoas is uniquely positioned and sized to be the most powerful flexor of the hip."
+  },
+  {
+    "q": "All of the following muscles are lateral rotators of the hip joint EXCEPT",
+    "o": [
+      "obturator externus",
+      "superior gemellus",
+      "piriformis",
+      "gluteus minimus",
+      "quadratus femoris"
+    ],
+    "a": 3,
+    "e": "Gluteus minimus (along with the anterior fibers of gluteus medius) acts primarily as an abductor and MEDIAL rotator of the hip."
+  },
+  {
+    "q": "Which of the following arteries is usually evaluated during a physical examination of the peripheral vascular system?",
+    "o": [
+      "lateral plantar",
+      "dorsalis pedis",
+      "popliteal",
+      "ﬁbular",
+      "posterior tibial"
+    ],
+    "a": 1,
+    "e": "The dorsalis pedis pulse is a standard clinical checkpoint for assessing peripheral arterial circulation to the lower limb."
+  },
+  {
+    "q": "Which of the following muscle tendons is commonly removed for grafting without causing disability?",
+    "o": [
+      "extensor hallucis brevis",
+      "ﬁbularis tertius",
+      "plantaris",
+      "ﬂexor digitorum brevis",
+      "tendons of the ﬂexor digitorum longus"
+    ],
+    "a": 2,
+    "e": "The plantaris has a very long, thin tendon that contributes negligibly to movement, making it an excellent donor graft."
+  },
+  {
+    "q": "Shin splints usually involve muscles in which of the following compartments?",
+    "o": [
+      "anterior",
+      "lateral",
+      "posterior",
+      "medial plantar",
+      "lateral plantar"
+    ],
+    "a": 0,
+    "e": "Shin splints often involve microtrauma to the periosteum where the tibialis anterior muscle (anterior compartment) attaches to the tibia."
+  },
+  {
+    "q": "The strongest dorsiﬂexor of the foot is which of the following muscles?",
+    "o": [
+      "ﬁbularis tertius",
+      "extensor digitorum longus",
+      "tibialis anterior",
+      "gastrocnemius",
+      "extensor hallucis brevis"
+    ],
+    "a": 2,
+    "e": "Because of its size and mechanical advantage, tibialis anterior is the primary and strongest dorsiflexor of the ankle."
+  },
+  {
+    "q": "Which statement does not correctly describe the ligaments of the knee joint?",
+    "o": [
+      "The medial meniscus is larger than the lateral meniscus.",
+      "The lateral meniscus is attached to the lateral collateral ligament.",
+      "The transverse ligament of the knee attaches to both menisci.",
+      "The anterior cruciate ligament prevents hyperextension of the knee.",
+      "The posterior cruciate ligament inserts onto the medial femoral condyle."
+    ],
+    "a": 1,
+    "e": "Unlike the medial side, the lateral meniscus is physically separated from the lateral collateral ligament by the popliteus tendon."
+  },
+  {
+    "q": "Which of the following statements correctly describes the capsule of the knee joint?",
+    "o": [
+      "It is thickest anteriorly.",
+      "The suprapatellar bursa communicates with the knee joint.",
+      "Both the cruciate ligaments lie within the synovial cavity.",
+      "The infrapatellar fat pad contains the subcutaneous infrapatellar bursa.",
+      "The posterior meniscofemoral ligament arises from the medial meniscus."
+    ],
+    "a": 1,
+    "e": "The suprapatellar bursa is essentially a superior extension of the knee joint's main synovial cavity."
+  },
+  {
+    "q": "Which statement, regarding the arterial anastomosis around the hip joint is incorrect?",
+    "o": [
+      "The circumflex femoral arteries usually arise from the profunda femoris.",
+      "The artery to the head of the femur is a branch of the femoral artery.",
+      "The artery to the head of the femur enters with the ligamentum teres.",
+      "The hip joint is supplied by retinacular branches.",
+      "Avascular necrosis is common in fractures of the femoral neck."
+    ],
+    "a": 1,
+    "e": "The artery to the head of the femur runs within the ligamentum teres but is a branch of the OBTURATOR artery, not the femoral artery."
+  },
+  {
+    "q": "Which of the following associations of lower limb movements and root values is not correct?",
+    "o": [
+      "Hip flexion  L3, L4",
+      "Knee flexion  L5, S1",
+      "Ankle dorsiflexion  L4, L5",
+      "Inversion  L4",
+      "Eversion  L5, S1"
+    ],
+    "a": 0,
+    "e": "Hip flexion is primarily mediated by nerve roots L2 and L3, not L3 and L4."
+  },
+  {
+    "q": "Which statement is NOT true of the ankle joint?",
+    "o": [
+      "It is strengthened by the deltoid (medial collateral ligament)",
+      "It is a hinge joint",
+      "It is formed by the articulation of the talus and the distal ends of the tibia and fibula",
+      "It is most stable in the fully plantar-flexed position",
+      "It is a synovial joint"
+    ],
+    "a": 3,
+    "e": "The ankle is most stable in dorsiflexion when the wider anterior part of the talus is tightly wedged between the malleoli."
+  },
+  {
+    "q": "\"Unlocking\" of the knee joint to permit flexion is caused by the action of which muscle?",
+    "o": [
+      "Vastus medialis",
+      "Articularis genu",
+      "Gastrocnemius",
+      "Biceps femoris",
+      "Popliteus"
+    ],
+    "a": 4,
+    "e": "The popliteus laterally rotates the femur on the fixed tibia, unlocking the fully extended knee joint."
+  },
+  {
+    "q": "After a football injury, an orthopedic surgeon noted that the right tibia could be moved anteriorly with excessive freedom when the knee was flexed. In this patient, which ligament is most likely to be torn?",
+    "o": [
+      "The lateral collateral ligament",
+      "The posterior cruciate ligament",
+      "The anterior cruciate ligament",
+      "The medial collateral ligament",
+      "The patellar ligament"
+    ],
+    "a": 2,
+    "e": "An abnormal anterior glide of the tibia against the femur (positive anterior drawer sign) directly indicates a torn anterior cruciate ligament (ACL)."
+  },
+  {
+    "q": "A sprained ankle resulting from excessive eversion most likely demonstrates a torn:",
+    "o": [
+      "Talofibular ligament",
+      "Tendo calcaneus",
+      "Deltoid ligament",
+      "Interosseous ligament",
+      "Peroneal retinaculum"
+    ],
+    "a": 2,
+    "e": "The deltoid (medial collateral) ligament is very strong and functions specifically to resist excessive eversion."
+  },
+  {
+    "q": "The lateral meniscus of the knee joint:",
+    "o": [
+      "Has a thick inner border",
+      "Is strongly attached around its circumference to the tibia",
+      "Is more frequently torn than the medial meniscus",
+      "Is strongly attached to the lateral collateral ligament",
+      "Is attached by its anterior horn to the tibia in front of the intercondylar eminence"
+    ],
+    "a": 4,
+    "e": "The anterior horn of the lateral meniscus attaches to the tibia anterior to the intercondylar eminence and posterior to the ACL."
+  },
+  {
+    "q": "The movement of eversion of the foot takes place at the following joints except:",
+    "o": [
+      "Subtalar joints",
+      "Ankle joints",
+      "Talocalcaneonavicular joint",
+      "Calcaneocuboid joint",
+      "Transverse tarsal joints"
+    ],
+    "a": 1,
+    "e": "The ankle (talocrural) joint is a pure hinge joint allowing only dorsiflexion and plantarflexion, not inversion or eversion."
+  },
+  {
+    "q": "Which of the following is involved in arterial anastomosis around the hip joint?",
+    "o": [
+      "Internal pudendal artery",
+      "Medial femoral circumflex artery",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "a": 1,
+    "e": "The medial femoral circumflex artery is a major component of the crucial arterial anastomoses (trochanteric and cruciate) around the hip joint."
+  }
+]

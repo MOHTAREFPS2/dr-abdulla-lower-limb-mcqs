@@ -1,0 +1,1029 @@
+[
+  {
+    "q": "The medial and lateral malleoli articulate with which of the following bones?",
+    "o": [
+      "femur",
+      "calcaneus",
+      "talus",
+      "cuboid",
+      "ﬁbula"
+    ],
+    "a": 2,
+    "e": "The medial malleolus (of the tibia) and lateral malleolus (of the fibula) articulate with the talus to form the ankle (talocrural) joint."
+  },
+  {
+    "q": "Which of the following bones is the most common site for a compound fracture?",
+    "o": [
+      "femur",
+      "tibia",
+      "ﬁbula",
+      "ilium",
+      "ischium"
+    ],
+    "a": 1,
+    "e": "The tibia is located subcutaneously immediately beneath the skin anteriorly, making it highly susceptible to compound (open) fractures."
+  },
+  {
+    "q": "Which of the following bones is the largest and strongest bone of the foot?",
+    "o": [
+      "talus",
+      "calcaneus",
+      "cuboid",
+      "navicular",
+      "lateral cuneiform"
+    ],
+    "a": 1,
+    "e": "The calcaneus (heel bone) is the largest and strongest of the tarsal bones, bearing the initial impact of weight during walking."
+  },
+  {
+    "q": "The sustentaculum tali projects from the superior surface of which of the following bones?",
+    "o": [
+      "intermediate cuneiform",
+      "talus",
+      "cuboid",
+      "navicular",
+      "calcaneus"
+    ],
+    "a": 4,
+    "e": "The sustentaculum tali is a bony shelf projecting from the medial and superior aspect of the calcaneus, supporting the head of the talus."
+  },
+  {
+    "q": "Which of the following bones articulates with the ﬁbula, tibia, calcaneus, and navicular?",
+    "o": [
+      "talus",
+      "lateral cuneiform",
+      "intermediate cuneiform",
+      "medial cuneiform",
+      "cuboid"
+    ],
+    "a": 0,
+    "e": "The talus articulates superiorly with the tibia and fibula, inferiorly with the calcaneus, and anteriorly with the navicular bone."
+  },
+  {
+    "q": "Which of the following statements applies to the 2nd metatarsal bone?",
+    "o": [
+      "It is the shortest.",
+      "It is the strongest.",
+      "It is the longest.",
+      "Its base has a large tuberosity.",
+      "Its base articulates with the navicular bone."
+    ],
+    "a": 2,
+    "e": "The second metatarsal is the longest metatarsal bone and its base is tightly wedged between the medial and lateral cuneiforms."
+  },
+  {
+    "q": "Which of these statements about the tibia and fibula is correct?",
+    "o": [
+      "The medial tibial condyle is smaller and more circular than the lateral.",
+      "Sartorius, gracilis and semitendinosus insert into the tibia.",
+      "Popliteus arises below the soleal line.",
+      "The common fibular nerve is subcutaneous at the neck of the fibula.",
+      "The fibularis muscles arise from the anterior surface of the fibula."
+    ],
+    "a": 1,
+    "e": "Sartorius, gracilis, and semitendinosus all insert onto the upper medial surface of the tibia, an area known as the pes anserinus."
+  },
+  {
+    "q": "The first metatarsal bone forms:",
+    "o": [
+      "Medial longitudinal arch only",
+      "Medial and lateral longitudinal arches only",
+      "Transverse arch only",
+      "Medial longitudinal and transverse arches",
+      "Lateral longitudinal and transverse arches"
+    ],
+    "a": 3,
+    "e": "The first metatarsal is a key bony component contributing to both the medial longitudinal arch and the anterior part of the transverse arch."
+  },
+  {
+    "q": "Calcaneus forms:",
+    "o": [
+      "Medial longitudinal arch only",
+      "Medial and lateral longitudinal arches only",
+      "Transverse arch only",
+      "Medial longitudinal and transverse arches",
+      "Lateral longitudinal and transverse arches"
+    ],
+    "a": 1,
+    "e": "The calcaneus acts as the posterior pillar for both the medial and lateral longitudinal arches of the foot."
+  },
+  {
+    "q": "The upper tibial epiphysis appears at:",
+    "o": [
+      "birth",
+      "1 year",
+      "2 year",
+      "3 years",
+      "puberty"
+    ],
+    "a": 0,
+    "e": "The secondary center of ossification for the upper (proximal) tibial epiphysis is typically present at or shortly before birth."
+  },
+  {
+    "q": "At birth:",
+    "o": [
+      "all the tarsal bones are ossified",
+      "only calcaneus is ossified",
+      "calcaneus and talus are ossified",
+      "calcaneus, talus and cuboid are ossified",
+      "none of the above"
+    ],
+    "a": 3,
+    "e": "At birth, primary ossification centers are usually present in the calcaneus, talus, and cuboid bones."
+  },
+  {
+    "q": "Features of the fibula include which of the following?",
+    "o": [
+      "it is on the medial side of the tibia",
+      "its medial surface is grooved for the origin of tibialis posterior",
+      "it is ossified from five centres",
+      "it does not provide origin for flexor digitorum longus",
+      "its lower third is rough for the origin of soleus"
+    ],
+    "a": 1,
+    "e": "The posterior and medial surfaces of the fibula give origin to the tibialis posterior muscle."
+  },
+  {
+    "q": "Concerning the talus:",
+    "o": [
+      "blood supply to body enters only through the dorsum of the neck",
+      "superior articular facet is broader posteriorly than anteriorly",
+      "articulates with cuboid",
+      "has no muscles attached",
+      "all of the above"
+    ],
+    "a": 3,
+    "e": "The talus is unique among the tarsal bones because it has no muscular attachments; it only receives ligaments."
+  },
+  {
+    "q": "Attached to proximal tibial epiphysis:",
+    "o": [
+      "the whole of the medial collateral ligament of the knee",
+      "sartorius",
+      "ligamentum patellae",
+      "popliteus",
+      "semitendinosus"
+    ],
+    "a": 2,
+    "e": "The ligamentum patellae (patellar ligament) inserts into the tibial tuberosity, which develops as a downward extension of the proximal tibial epiphysis."
+  },
+  {
+    "q": "Middle cuneiform:",
+    "o": [
+      "articulates with talus",
+      "articulates with the third metatarsal",
+      "receives portion of insertion of tibialis anterior",
+      "gives attachment to short plantar ligament",
+      "none of the above"
+    ],
+    "a": 4,
+    "e": "None of the statements are true. The middle (intermediate) cuneiform articulates with the navicular and 2nd metatarsal, not the 3rd or talus."
+  },
+  {
+    "q": "Talus:",
+    "o": [
+      "receives all its blood supply to the body through dorsal aspect of neck",
+      "gives attachment to spring ligament",
+      "posterior aspect of body grooved by flexor longus hallucis",
+      "gives partial origin to abductor hallucis",
+      "none of the above"
+    ],
+    "a": 2,
+    "e": "The posterior process of the talus has a distinct groove that accommodates the tendon of the flexor hallucis longus."
+  },
+  {
+    "q": "A patient experiences weakness in dorsiﬂexing and inverting the foot. Which of the following muscles is damaged?",
+    "o": [
+      "Peroneus longus",
+      "Peroneus brevis",
+      "Tibialis anterior",
+      "Extensor digitorum longus",
+      "Peroneus tertius"
+    ],
+    "a": 2,
+    "e": "Tibialis anterior is the primary muscle responsible for both dorsiflexion of the ankle and inversion of the foot."
+  },
+  {
+    "q": "A knife wound penetrates the superﬁcial vein that terminates in the popliteal vein. Bleeding occurs from which of the following vessels?",
+    "o": [
+      "Posterior tibial vein",
+      "Anterior tibial vein",
+      "Peroneal vein",
+      "Great saphenous vein",
+      "Lesser saphenous vein"
+    ],
+    "a": 4,
+    "e": "The lesser (small) saphenous vein ascends superficially on the back of the leg and pierces the deep fascia to terminate in the popliteal vein."
+  },
+  {
+    "q": "A 72-year-old woman complains of a cramp-like pain in her thigh and leg. She was diagnosed as having a severe intermittent claudication. Following surgery, an infection was found in the adductor canal, damaging the enclosed structures. Which of the following structures remains intact?",
+    "o": [
+      "Femoral artery",
+      "Femoral vein",
+      "Saphenous nerve",
+      "Great saphenous vein",
+      "Nerve to the vastus medialis"
+    ],
+    "a": 3,
+    "e": "The great saphenous vein runs superficially in the subcutaneous tissue and does NOT pass through the deep adductor (Hunter's) canal."
+  },
+  {
+    "q": "An orthopedic surgeon ligates the posterior tibial artery at its origin. Which of the following arteries has no blood ﬂow immediately after the ligation?",
+    "o": [
+      "Peroneal",
+      "Dorsalis pedis",
+      "Superior medial genicular",
+      "Anterior tibial",
+      "Descending genicular"
+    ],
+    "a": 0,
+    "e": "The peroneal (fibular) artery is the largest and most important branch of the posterior tibial artery, originating just below the popliteus."
+  },
+  {
+    "q": "The lateral sural nerve is a branch of which of the following nerves?",
+    "o": [
+      "femoral",
+      "common ﬁbular",
+      "tibial",
+      "obturator",
+      "posterior cutaneous nerve of the thigh"
+    ],
+    "a": 1,
+    "e": "The lateral sural cutaneous nerve is a direct branch of the common fibular (peroneal) nerve in the popliteal fossa."
+  },
+  {
+    "q": "All of the following muscles are located in the deep muscle group of the posterior compartment EXCEPT",
+    "o": [
+      "ﬂexor digitorum longus",
+      "popliteus",
+      "plantaris",
+      "ﬂexor hallucis longus",
+      "tibialis posterior"
+    ],
+    "a": 2,
+    "e": "The plantaris is part of the superficial group of the posterior compartment, along with the gastrocnemius and soleus."
+  },
+  {
+    "q": "Which of the following muscles is a ﬂexor of the knee joint?",
+    "o": [
+      "popliteus",
+      "tibialis anterior",
+      "ﬁbularis longus",
+      "extensor digitorum longus",
+      "extensor hallucis longus"
+    ],
+    "a": 0,
+    "e": "The popliteus muscle acts to flex the knee and medially rotate the tibia (or laterally rotate the femur to 'unlock' the knee)."
+  },
+  {
+    "q": "Which of the following muscles is the powerful “push-off” muscle?",
+    "o": [
+      "gastrocnemius",
+      "soleus",
+      "tibialis anterior",
+      "ﬂexor hallucis longus",
+      "plantaris"
+    ],
+    "a": 3,
+    "e": "Flexor hallucis longus is critical during the toe-off phase of walking, providing the final powerful 'push-off' from the great toe."
+  },
+  {
+    "q": "Which of the following muscles contract to assist the posterior cruciate ligament in preventing anterior displacement of the femur on the tibia?",
+    "o": [
+      "plantaris",
+      "popliteus",
+      "soleus",
+      "gastrocnemius",
+      "tibialis posterior"
+    ],
+    "a": 1,
+    "e": "The popliteus muscle's tendon pulls the femur posteriorly, thus dynamically assisting the PCL in preventing anterior femoral displacement."
+  },
+  {
+    "q": "Which of following muscles is included in the triceps surae?",
+    "o": [
+      "gastrocnemius",
+      "tibialis anterior",
+      "tibialis posterior",
+      "popliteus",
+      "ﬁbularis brevis"
+    ],
+    "a": 0,
+    "e": "The triceps surae consists of the two heads of the gastrocnemius and the underlying soleus muscle."
+  },
+  {
+    "q": "Which of the following does not correctly describe the posterior compartment of the leg?",
+    "o": [
+      "The muscles are separated into deep and superficial groups by the posterior intermuscular septum.",
+      "All of the muscles are innervated by the tibial nerve.",
+      "It contains both the anterior and posterior tibial arteries.",
+      "Flexor hallucis longus takes origin from the fibula, lateral to flexor digitorum longus.",
+      "Popliteus unlocks the knee by laterally rotating the femur."
+    ],
+    "a": 0,
+    "e": "The deep and superficial groups of the posterior compartment are separated by the deep transverse fascia of the leg, not an intermuscular septum."
+  },
+  {
+    "q": "The peroneal artery is a branch of which artery?",
+    "o": [
+      "Anterior tibial artery",
+      "Popliteal artery",
+      "Posterior tibial artery",
+      "Arcuate artery",
+      "Lateral planter artery"
+    ],
+    "a": 2,
+    "e": "The peroneal (fibular) artery branches off the posterior tibial artery shortly after the popliteal artery bifurcates."
+  },
+  {
+    "q": "The lymph drainage of the skin of the calf is into:",
+    "o": [
+      "Vertical group of superficial inguinal nodes",
+      "Internal iliac nodes",
+      "Horizontal group of superficial inguina nodes",
+      "Popliteal nodes",
+      "Obturator nodes"
+    ],
+    "a": 3,
+    "e": "Lymphatics accompanying the small saphenous vein from the calf drain directly into the popliteal lymph nodes."
+  },
+  {
+    "q": "The gastrocnemias and the soleus muscles have all the following features in common except:",
+    "o": [
+      "They are supplied by the tibial nerve",
+      "They are found in the posterior compartment of the leg",
+      "They arise from the femoral condyles and flex the knee joint",
+      "They insert via the tendo calaneus",
+      "They planter flex the ankle joint"
+    ],
+    "a": 2,
+    "e": "Unlike the gastrocnemius, the soleus arises from the tibia and fibula and does not cross or flex the knee joint."
+  },
+  {
+    "q": "Rupture of the tendo calcaneus results in the inability to:",
+    "o": [
+      "Dorsiflex the foot",
+      "Evert the foot",
+      "Invert the foot",
+      "Planterflex the foot",
+      "None of the above"
+    ],
+    "a": 3,
+    "e": "The tendo calcaneus (Achilles tendon) transmits the pull of the triceps surae, the primary plantarflexors of the foot."
+  },
+  {
+    "q": "After a lesion of the tibial part of the sciatic nerve, some active flexion may still be possible at the knee joint. The muscles responsible for this remaining flexion include:",
+    "o": [
+      "The short head of the biceps femoris muscle",
+      "The gastrocnemius muscle",
+      "The plantaris muscle",
+      "The popliteus muscle",
+      "The long head of the biceps femoris muscle"
+    ],
+    "a": 0,
+    "e": "The short head of the biceps femoris is uniquely innervated by the common peroneal (fibular) part of the sciatic nerve, sparing it in a tibial nerve lesion."
+  },
+  {
+    "q": "Muscles of the deep posterior compartment of the leg produce which of the following?",
+    "o": [
+      "Planter flexion",
+      "Inversion",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "a": 2,
+    "e": "Deep posterior muscles like tibialis posterior act to both plantarflex the ankle and invert the foot."
+  },
+  {
+    "q": "Small saphenous vein travels with which of the following nerves?",
+    "o": [
+      "Sural nerve",
+      "Deep peroneal nerve",
+      "Saphenous nerve",
+      "Tibial nerve"
+    ],
+    "a": 0,
+    "e": "The small saphenous vein is accompanied by the sural nerve as it ascends the posterior aspect of the leg."
+  },
+  {
+    "q": "Posterior tibial artery travels with which of the following nerves?",
+    "o": [
+      "Sural nerve",
+      "Deep peroneal nerve",
+      "Saphenous nerve",
+      "Tibial nerve",
+      "Superior gluteal nerve"
+    ],
+    "a": 3,
+    "e": "The posterior tibial artery travels alongside the tibial nerve in the deep posterior compartment of the leg."
+  },
+  {
+    "q": "Position of the common peroneal nerve relative to the tendon of the semitendinosus in the popliteal fossa:",
+    "o": [
+      "Medial",
+      "Lateral",
+      "Posterior",
+      "Anterior",
+      "Superior"
+    ],
+    "a": 1,
+    "e": "The semitendinosus forms the medial boundary of the fossa, while the common peroneal nerve travels on the far lateral side along the biceps femoris."
+  },
+  {
+    "q": "Soleus is:",
+    "o": [
+      "Attached to the calcaneus",
+      "Attached to the proximal phalanx of medial toe",
+      "Attached to 5 th metatarsal",
+      "Both A and B",
+      "None of the above"
+    ],
+    "a": 0,
+    "e": "Soleus merges with gastrocnemius to form the Achilles tendon, which attaches to the posterior surface of the calcaneus."
+  },
+  {
+    "q": "Which of the following muscles is attached to both tibia and fibula:",
+    "o": [
+      "Tibialis posterior",
+      "Popliteus",
+      "Flexor pollicis longus",
+      "Both B and C",
+      "None of the above"
+    ],
+    "a": 0,
+    "e": "Tibialis posterior takes a broad origin from the interosseous membrane and the posterior surfaces of both the tibia and fibula."
+  },
+  {
+    "q": "Select the false statement regarding deep muscles of the calf:",
+    "o": [
+      "Supplied by deep peroneal nerve",
+      "They flex the toes",
+      "Are the main planterflexors of the ankle joint",
+      "Maintain the medial longitudinal arch of the foot"
+    ],
+    "a": 0,
+    "e": "The deep muscles of the calf are located in the posterior compartment and are supplied by the tibial nerve, not the deep peroneal."
+  },
+  {
+    "q": "The small saphenous vein drains predominantly to:",
+    "o": [
+      "The femoral vein",
+      "The tibial vein",
+      "The popliteal vein",
+      "The greater saphenous vein",
+      "The dorsal venous arch of the foot"
+    ],
+    "a": 2,
+    "e": "The small saphenous vein pierces the deep fascia of the popliteal fossa to drain into the popliteal vein."
+  },
+  {
+    "q": "The sural nerve is a branch of the:",
+    "o": [
+      "Femoral nerve",
+      "Tibial nerve",
+      "Common peroneal nerve",
+      "Deep peroneal nerve",
+      "Obturator nerve"
+    ],
+    "a": 1,
+    "e": "The medial sural cutaneous nerve, which is the major component of the sural nerve, is a direct branch of the tibial nerve."
+  },
+  {
+    "q": "With respect to the posterior compartment of the leg, which is FALSE?",
+    "o": [
+      "plantaris arises from the lower part of the lateral supracondylar line and is absent in 10%",
+      "the medial head of gastrocnemius is larger than the lateral",
+      "the small saphenous vein drains the medial side of the dorsal venous arch and medial margin of the foot",
+      "the soleal muscle contains a rich plexus of small veins → the soleal pump",
+      "the nerve of this compartment is the tibial nerve"
+    ],
+    "a": 2,
+    "e": "The small saphenous vein drains the LATERAL side of the dorsal venous arch, while the great saphenous drains the medial side."
+  },
+  {
+    "q": "Which is NOT true of the tendoachilles?",
+    "o": [
+      "it inserts into the middle third of the posterior surface of the calcaneus",
+      "it is invested in a synovial sheath",
+      "it is formed from the soleus and gastrocnemius",
+      "a bursa lies between the tendon and the upper third of the calcaneus",
+      "a bursa lies between it and the deep fascia near its insertion"
+    ],
+    "a": 1,
+    "e": "The Achilles tendon does not have a true synovial sheath; instead, it is surrounded by a vascularized paratenon."
+  },
+  {
+    "q": "A 25 year old man is unable to plantar flex his foot. The most likely cause is damage to:",
+    "o": [
+      "the superficial peroneal nerve",
+      "the L5 nerve root",
+      "the tibial nerve",
+      "soleus",
+      "gastrocnemius"
+    ],
+    "a": 2,
+    "e": "The tibial nerve supplies all the muscles of the posterior compartment of the leg, which are the primary plantarflexors."
+  },
+  {
+    "q": "The short saphenous vein passes below and behind the:",
+    "o": [
+      "medial malleolus",
+      "lateral malleolus",
+      "medial epicondyle",
+      "lateral epicondyle",
+      "greater trochanter"
+    ],
+    "a": 1,
+    "e": "The short (small) saphenous vein characteristically passes posterior and inferior to the lateral malleolus."
+  },
+  {
+    "q": "The deep peroneal nerve supplies:",
+    "o": [
+      "skin between the first and second toes",
+      "skin between the second and third toes",
+      "skin on the medial side of the shin",
+      "skin on the dorsolateral side of the fo",
+      "the great toe only"
+    ],
+    "a": 0,
+    "e": "The deep peroneal nerve provides cutaneous sensation only to the first web space (between the great toe and second toe)."
+  },
+  {
+    "q": "A 47-year-old woman is unable to invert her foot after she stumbled on her driveway. Which of the following nerves are most likely injured?",
+    "o": [
+      "Superﬁcial and deep peroneal",
+      "Deep peroneal and tibial",
+      "Superﬁcial peroneal and tibial",
+      "Medial and lateral plantar",
+      "Obturator and tibial"
+    ],
+    "a": 1,
+    "e": "Inversion is performed by tibialis anterior (deep peroneal nerve) and tibialis posterior (tibial nerve)."
+  },
+  {
+    "q": "A motorcyclist falls from his bike in an accident and gets a deep gash that severs the superﬁcial peroneal nerve near its origin. Which of the following muscles is paralyzed?",
+    "o": [
+      "Peroneus longus",
+      "Extensor hallucis longus",
+      "Extensor digitorum longus",
+      "Peroneus tertius",
+      "Extensor digitorum brevis"
+    ],
+    "a": 0,
+    "e": "The superficial peroneal nerve innervates the muscles of the lateral compartment, which are peroneus longus and peroneus brevis."
+  },
+  {
+    "q": "A patient is involved in a motorcycle wreck that results in avulsion of the skin over the anterolateral leg and ankle. Which of the following structures is most likely destroyed with this type of injury?",
+    "o": [
+      "Deep peroneal nerve",
+      "Extensor digitorum longus muscle tendon",
+      "Dorsalis pedis artery",
+      "Great saphenous vein",
+      "Superﬁcial peroneal nerve"
+    ],
+    "a": 4,
+    "e": "The superficial peroneal nerve pierces the deep fascia to become subcutaneous over the anterolateral distal leg."
+  },
+  {
+    "q": "A 25-year-old gladiator sustains a penetrating injury that severs the superﬁcial peroneal nerve. This will most likely cause paralysis of which of the following muscles?",
+    "o": [
+      "Peroneus tertius",
+      "Peroneus brevis",
+      "Flexor hallucis longus",
+      "Tibialis anterior",
+      "Tibialis posterior"
+    ],
+    "a": 1,
+    "e": "Peroneus brevis is located in the lateral compartment and is innervated exclusively by the superficial peroneal nerve."
+  },
+  {
+    "q": "Consider the lateral compartment of the leg. Which statement is correct?",
+    "o": [
+      "All the muscles of the lateral compartment are innervated by the superficial peroneal nerve.",
+      "It contains the peroneal artery.",
+      "It contains peroneus longus, brevis and tertius.",
+      "The peroneus longus tendon grooves the lateral malleolus.",
+      "The muscles of the lateral compartment principally invert the foot."
+    ],
+    "a": 0,
+    "e": "The lateral compartment contains only peroneus longus and brevis, both innervated by the superficial peroneal nerve."
+  },
+  {
+    "q": "Which statement regarding the tendons of the muscles of the lateral compartment of the leg is incorrect?",
+    "o": [
+      "The peroneus longus tendon runs posterior to that of peroneus brevis at the lateral malleolus.",
+      "Both tendons pass under the superior and inferior peroneal retinaculae.",
+      "They share a common synovial sheath as they pass under both retinaculae.",
+      "The tendons are separated by the peroneal trochlea.",
+      "The peroneus longus tendon passes deep to the long plantar ligament."
+    ],
+    "a": 2,
+    "e": "They share a common synovial sheath deep to the superior retinaculum, but it splits into separate sheaths at the inferior retinaculum."
+  },
+  {
+    "q": "Injury to the common peroneal nerve results in an:",
+    "o": [
+      "Inability to invert the foot",
+      "Inability to planterflex the ankle",
+      "Inability to evert the foot",
+      "Inability to planterflex the big toe",
+      "Inability to feel skin sensation on the medial side of the leg"
+    ],
+    "a": 2,
+    "e": "The common peroneal nerve supplies the lateral compartment (via its superficial branch) which is responsible for eversion."
+  },
+  {
+    "q": "\"Foot drop\" can be caused by trauma to:",
+    "o": [
+      "Common peroneal nerves",
+      "Femoral nerve",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "a": 0,
+    "e": "Damage to the common peroneal nerve paralyzes the anterior compartment dorsiflexors, causing the foot to drop."
+  },
+  {
+    "q": "Which of the following muscles inserts on the fibula?",
+    "o": [
+      "Flexor hallucis longus",
+      "Biceps femoris",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "a": 1,
+    "e": "The tendon of the biceps femoris inserts onto the head of the fibula."
+  },
+  {
+    "q": "Which can be found in the lateral compartment of the leg?",
+    "o": [
+      "Peroneus brevis",
+      "Peroneus tertias",
+      "Both A and B",
+      "Neither A nor B",
+      "None of the above"
+    ],
+    "a": 0,
+    "e": "Peroneus brevis is in the lateral compartment; peroneus tertius is located in the anterior compartment."
+  },
+  {
+    "q": "Muscles that evert the foot Include which of the following muscles?",
+    "o": [
+      "gastrocnemius",
+      "soleus",
+      "tibialis posterior",
+      "peroneal brevis",
+      "all of above"
+    ],
+    "a": 3,
+    "e": "Peroneus (fibularis) brevis is a primary evertor of the foot."
+  },
+  {
+    "q": "The tendon of the biceps femoris and the neck of the fibula may be used as a guide for locating which of the following nerves?",
+    "o": [
+      "saphenous",
+      "sural",
+      "common peroneal",
+      "tiblal",
+      "deep peroneal nerve"
+    ],
+    "a": 2,
+    "e": "The common peroneal nerve courses closely along the medial border of the biceps tendon and wraps around the neck of the fibula."
+  },
+  {
+    "q": "With respect to peroneus longus:",
+    "o": [
+      "it inserts into the base of the 5 th metacarpal",
+      "it is supplied by the superficial peroneal nerve",
+      "it has a broad tendon that lies between the lateral malleolus and the tendon of peroneus brevis",
+      "it arises from the upper two thirds of the tibia",
+      "it is mainly supplied by L4 and L5 segments"
+    ],
+    "a": 1,
+    "e": "Peroneus longus is innervated by the superficial peroneal nerve, which supplies the entire lateral compartment."
+  },
+  {
+    "q": "The peroneus longus muscle:",
+    "o": [
+      "passes superficial to the superior peroneal retinaculum",
+      "inserts into the styloid process of the fifth metatarsal bone",
+      "is supplied by the common peroneal nerve",
+      "assists in the maintenance of the lateral longitudinal arch",
+      "has no origin from the tibia"
+    ],
+    "a": 3,
+    "e": "By crossing the sole of the foot, the peroneus longus tendon supports both the lateral longitudinal and transverse arches."
+  },
+  {
+    "q": "The short saphenous vein:",
+    "o": [
+      "lies anterior to the lateral malleolus",
+      "is accompanied by the saphenous nerve",
+      "drains into the great saphenous vein",
+      "drains the lateral margin of the foot",
+      "lies deep to the deep fascia of the calf"
+    ],
+    "a": 3,
+    "e": "The short saphenous vein originates from the lateral margin of the dorsal venous arch, draining the lateral side of the foot."
+  },
+  {
+    "q": "Peroneus tertius:",
+    "o": [
+      "acts only to evert the foot",
+      "arises from the lower anterior part of the tibia",
+      "may insert into the neck of the fifth metatarsal",
+      "passes superficial to the extensor retinaculum",
+      "is innervated by the superficial peroneal nerve"
+    ],
+    "a": 2,
+    "e": "Peroneus tertius inserts onto the dorsal surface of the base (and occasionally neck) of the fifth metatarsal."
+  },
+  {
+    "q": "A thoracic surgeon is going to collect a portion of the greater saphenous vein for coronary bypass surgery. He has observed that this vein runs:",
+    "o": [
+      "Posterior to the medial malleolus",
+      "Into the popliteal vein",
+      "Anterior to the medial condyles of the tibia and femur",
+      "Superﬁcial to the fascia lata of the thigh",
+      "Along with the femoral artery"
+    ],
+    "a": 3,
+    "e": "The great saphenous vein is a superficial vein, meaning it courses superficially to the deep fascia (fascia lata) of the thigh."
+  },
+  {
+    "q": "A basketball player was hit in the thigh by an opponent’s knee. Which of the following arteries is likely to compress and cause ischemia because of the bruise and damage to the extensor muscles of the leg?",
+    "o": [
+      "Popliteal",
+      "Deep femoral",
+      "Anterior tibial",
+      "Posterior tibial",
+      "Peroneal"
+    ],
+    "a": 2,
+    "e": "The anterior tibial artery is located within the anterior (extensor) compartment of the leg, which is prone to compartment syndrome after trauma."
+  },
+  {
+    "q": "A 35-year-old man has difﬁculty in dorsiﬂexing the foot. Which of the following muscles is most likely damaged?",
+    "o": [
+      "Tibialis posterior",
+      "Flexor digitorum longus",
+      "Tibialis anterior",
+      "Peroneus longus",
+      "Peroneus brevis"
+    ],
+    "a": 2,
+    "e": "The tibialis anterior is the primary and strongest dorsiflexor of the ankle joint."
+  },
+  {
+    "q": "An injury to the leg of a golfer results in loss of the ability to invert the foot. Which of the following muscles is most likely paralyzed?",
+    "o": [
+      "Tibialis posterior",
+      "Peroneus longus",
+      "Peroneus brevis",
+      "Peroneus tertius",
+      "Extensor digitorum longus"
+    ],
+    "a": 0,
+    "e": "Tibialis posterior is a powerful invertor of the foot (along with tibialis anterior)."
+  },
+  {
+    "q": "A 14-year-old gymnastic silver medalist falls from the parallel bar and complains of pains from the knee and ankle joints. On physical examination, her physician found that the muscle responsible for ﬂexing the leg at the knee joint and plantar ﬂexing the foot is severely weakened. Which of the following muscles involved in both movements was most likely damaged in this accident?",
+    "o": [
+      "Tibialis posterior",
+      "Gastrocnemius",
+      "Soleus",
+      "Peroneus longus",
+      "Flexor digitorum longus"
+    ],
+    "a": 1,
+    "e": "Because the gastrocnemius crosses both the knee and the ankle, it functions to flex the knee and plantarflex the ankle."
+  },
+  {
+    "q": "A 52-year-old woman comes to an orthopedic surgeon complaining of an uncomfortable feeling in her knee and ankle joints. After a thorough examination, she is diagnosed as having arthritis with mild discomfort with passive movements. The muscles acting at the ankle joint appear normal with good strength. Which muscle can both dorsiﬂex and invert her foot?",
+    "o": [
+      "Peroneus longus",
+      "Peroneus brevis",
+      "Peroneus tertius",
+      "Extensor hallucis longus",
+      "Extensor digitorum longus"
+    ],
+    "a": 3,
+    "e": "Extensor hallucis longus acts to extend the big toe, but it also assists in dorsiflexing and weakly inverting the foot."
+  },
+  {
+    "q": "All of the following statements correctly apply to the inferior extensor retinaculum EXCEPT",
+    "o": [
+      "It passes from the ﬁbula to the tibia proximal to the malleoli.",
+      "It is a Y-shaped band of deep fascia.",
+      "It attaches laterally to the anterosuperior surface of the calcaneus.",
+      "It forms a strong loop around the tendons of the ﬁbularis tertius.",
+      "It forms a strong loop around the tendons of the extensor digitorum longus."
+    ],
+    "a": 0,
+    "e": "The superior extensor retinaculum binds the tibia to the fibula proximal to the malleoli. The inferior one is Y-shaped and attaches to the calcaneus."
+  },
+  {
+    "q": "Which of the following muscles is the strongest dorsiﬂexor and invertor of the foot?",
+    "o": [
+      "extensor digitorum longus",
+      "tibialis anterior",
+      "ﬁbularis tertius",
+      "extensor hallucis longus",
+      "ﬂexor hallucis longus"
+    ],
+    "a": 1,
+    "e": "Tibialis anterior is located anteriorly and medially, giving it excellent mechanical advantage to be the strongest dorsiflexor and invertor."
+  },
+  {
+    "q": "Which statement correctly describes the anterior compartment of the leg?",
+    "o": [
+      "It is separated from the posterior compartment by the anterior intermuscular septum.",
+      "All the muscles of the compartment are innervated by the deep peroneal nerve.",
+      "The anterior tibial artery arises in the anterior compartment.",
+      "It contains extensor digitorum brevis.",
+      "Tibialis anterior assists in eversion of the foot."
+    ],
+    "a": 1,
+    "e": "The deep peroneal nerve is the exclusive nerve supply to all four muscles in the anterior compartment."
+  },
+  {
+    "q": "Which of the following muscles dorsiflexes the foot at the ankle joint?",
+    "o": [
+      "Peroneous longus",
+      "Extensor digitorum brevis",
+      "Tibialis posterior",
+      "Extensor hallucis brevis",
+      "Tibialis anterior"
+    ],
+    "a": 4,
+    "e": "Tibialis anterior is the primary dorsiflexor of the ankle."
+  },
+  {
+    "q": "The following muscles invert the foot except the:",
+    "o": [
+      "Tibialis anterior",
+      "Extensor hallucis longus",
+      "Extensor digitorum longus",
+      "Peroneus tertius",
+      "Tibialis posterior"
+    ],
+    "a": 3,
+    "e": "Peroneus (fibularis) tertius acts to dorsiflex and EVERT the foot, not invert it."
+  },
+  {
+    "q": "If the foot is permanently dorsiflexed and everted, which nerve might be injured?",
+    "o": [
+      "The deep peroneal nerve",
+      "The superficial peroneal nerve",
+      "The common peroneal nerve",
+      "The tibial nerve",
+      "The obturator nerve"
+    ],
+    "a": 3,
+    "e": "The tibial nerve supplies the plantarflexors and invertors. Its injury leaves the dorsiflexors and evertors unopposed."
+  },
+  {
+    "q": "The anterior compartment of the leg:",
+    "o": [
+      "Contains muscles capable to produce inversion and eversion",
+      "Contains muscles all of which insert in the foot",
+      "Receives its blood as a branch of the popliteal artery",
+      "Is tightly compressed between the tibia and fibula by deep fascia",
+      "All of the above"
+    ],
+    "a": 4,
+    "e": "All stated anatomical and functional features of the anterior compartment are correct."
+  },
+  {
+    "q": "All of the following nerves innervate the flexors acting on the knee joint except :",
+    "o": [
+      "Deep peroneal nerve",
+      "Femoral nerve",
+      "Obturator nerve",
+      "Tibial nerve",
+      "Common peroneal nerve"
+    ],
+    "a": 0,
+    "e": "The deep peroneal nerve innervates muscles of the anterior compartment of the leg, which have no action on the knee joint."
+  },
+  {
+    "q": "Which muscle is not a dorsiflexor of foot?",
+    "o": [
+      "tibialis antcrior",
+      "extensor digitorum longus",
+      "extensor digitorum brevis",
+      "extensor haluces longus",
+      "both B and C"
+    ],
+    "a": 2,
+    "e": "Extensor digitorum brevis is intrinsic to the foot and extends the toes; it does not cross the ankle to dorsiflex the foot."
+  },
+  {
+    "q": "Tibialis anterior:",
+    "o": [
+      "is supplied by the tibial nerve",
+      "inserts into the second metatarsal bone",
+      "is pierced by the posterior tibial artery",
+      "tendon perforates the superior extensor retinaculum",
+      "does not arise from the interosseous membrane"
+    ],
+    "a": 3,
+    "e": "The tendon of tibialis anterior passes deep to the superior extensor retinaculum, though variations in textual descriptions exist, it's known to interact distinctively with the retinacula."
+  },
+  {
+    "q": "The most medial structure passing under the inferior extensor retinaculum of the foot is:",
+    "o": [
+      "deep peroneal nerve",
+      "tibialis anterior",
+      "extensor hallucis longus",
+      "anterior tibial artery",
+      "peroneus brevis"
+    ],
+    "a": 1,
+    "e": "From medial to lateral, the structures are: Tibialis anterior, Extensor hallucis longus, Artery, Nerve, Extensor digitorum longus (Tom Has A Nice Dog)."
+  },
+  {
+    "q": "The anterior tibial artery:",
+    "o": [
+      "pierces the interosseous membrane",
+      "supplies the lateral compartment of the leg",
+      "lies lateral to the deep peroneal nerve",
+      "lies lateral to tibialis anterior",
+      "gives the nutrient artery to the tibia"
+    ],
+    "a": 3,
+    "e": "In the anterior compartment, the artery runs laterally adjacent to the tibialis anterior muscle belly."
+  },
+  {
+    "q": "Regarding the extensor compartment of the lower leg, all of the following statements are true EXCEPT:",
+    "o": [
+      "the tibialis anterior muscle is supplied by the deep peroneal and recurrent genicular nerves (L4)",
+      "extensor digitorum longus and peroneus tertius muscle lie lateral to tibialis anterior artery throughout",
+      "the deep peroneal nerve arises within the peroneus longus muscle",
+      "the extensor digitorum longus dorsiflex the lateral toes",
+      "the extensor hallucis longus arises from the middle two-fourths of the tibia and the adjacent interosseous membrane"
+    ],
+    "a": 4,
+    "e": "Extensor hallucis longus originates from the anterior surface of the FIBULA, not the tibia."
+  },
+  {
+    "q": "Structures closely related to long saphenous vein at ankle include which of the following?",
+    "o": [
+      "major perforating veins to deep venous system",
+      "a branch of the femoral nerve",
+      "medial superficial lymphatic trunks",
+      "a branch of the anterior tibial nerve",
+      "dorsalis pedis artery"
+    ],
+    "a": 1,
+    "e": "The saphenous nerve (a terminal cutaneous branch of the femoral nerve) accompanies the great saphenous vein at the medial ankle."
+  },
+  {
+    "q": "The cutaneous nerve supplying the medial aspect of the calf is:",
+    "o": [
+      "anterior femoral cutaneous",
+      "sural",
+      "superficial peroneal",
+      "saphenous",
+      "posterior femoral cutaneous"
+    ],
+    "a": 3,
+    "e": "The saphenous nerve continues down the medial side of the leg to supply the skin of the medial calf and medial border of the foot."
+  },
+  {
+    "q": "Flexor digitorum longus:",
+    "o": [
+      "lies superficial to tibialis posterior",
+      "muscle belly lies medial to flexor hallucis longus",
+      "arises from both tibia and fibula",
+      "has communications with flexor longus hallucis",
+      "all of the above"
+    ],
+    "a": 4,
+    "e": "All the mentioned anatomical relations and features concerning flexor digitorum longus in the posterior compartment are accurate."
+  },
+  {
+    "q": "Posterior tibial artery:",
+    "o": [
+      "arises at the upper border of popliteus",
+      "has no accompanying sympathetic nerve plexus",
+      "lies posterior to flexor longus digitorum under flexor retinaculum",
+      "lies on peroneus brevis for part of its course",
+      "all of the above"
+    ],
+    "a": 2,
+    "e": "Under the flexor retinaculum, from medial to lateral: Tibialis posterior, Flexor digitorum longus, Posterior tibial Artery, Tibial Nerve, Flexor hallucis longus."
+  },
+  {
+    "q": "Flexor longus digitorum:",
+    "o": [
+      "crosses deep to tibialis posterior in calf",
+      "crosses superficial to flexor longus hallucis in sole",
+      "is an evertor of the foot",
+      "supplied by musculocutaneous nerve",
+      "supplied by L5 nerve root"
+    ],
+    "a": 1,
+    "e": "In the plantar aspect of the foot (the sole), the tendon of flexor digitorum longus crosses superficial (plantar) to the tendon of flexor hallucis longus."
+  }
+]

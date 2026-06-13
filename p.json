@@ -1,0 +1,1019 @@
+[
+  {
+    "q": "The margin of the acetabulum is deﬁcient inferiorly at which of the following structures?",
+    "o": [
+      "ischial tuberosity",
+      "obturator foramen",
+      "linea aspera",
+      "acetabular notch",
+      "ischial spine"
+    ],
+    "a": 3,
+    "e": "The acetabulum has a C-shaped margin that is incomplete inferiorly, creating the acetabular notch."
+  },
+  {
+    "q": "deﬁciency in the smooth articular surface of the acetabulum is known as which of the following?",
+    "o": [
+      "pecten pubis",
+      "pubic crest",
+      "lunate surface",
+      "ala",
+      "ramus"
+    ],
+    "a": 2,
+    "e": "The lunate surface is the smooth, C-shaped articular part of the acetabulum which is deficient inferiorly."
+  },
+  {
+    "q": "When it is said that an elderly person has a “broken hip,” the usual injury is a fracture of which of the following structures?",
+    "o": [
+      "acetabulum",
+      "neck of the femur",
+      "pelvic rami",
+      "ischial tuberosity",
+      "ilium"
+    ],
+    "a": 1,
+    "e": "In clinical practice, a 'broken hip' typically refers to a fracture of the femoral neck, very common in the elderly."
+  },
+  {
+    "q": "Sacrospinous ligament traverses the:",
+    "o": [
+      "Greater sciatic foramen",
+      "Lesser sciatic foramen",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "a": 2,
+    "e": "The sacrospinous ligament separates the greater and lesser sciatic notches, forming the boundary for both foramina."
+  },
+  {
+    "q": "greater sciatic notch is formed into a foramen by which of the following ligament?",
+    "o": [
+      "interosscous sacroiliac",
+      "sacrospinous",
+      "dorsal sacroiliac",
+      "arcuate",
+      "non of above"
+    ],
+    "a": 1,
+    "e": "The sacrospinous ligament converts the greater sciatic notch into the greater sciatic foramen."
+  },
+  {
+    "q": "The sacrococcygeal joint is:",
+    "o": [
+      "Synovial joint",
+      "Secondery cartilaginous joint",
+      "Amphiarthrodial joint",
+      "Symphsis joint"
+    ],
+    "a": 2,
+    "e": "The sacrococcygeal joint is a secondary cartilaginous joint (amphiarthrosis) containing a fibrocartilaginous intervertebral disc."
+  },
+  {
+    "q": "Regarding the X-ray of hip bones , which pairing is true:",
+    "o": [
+      "at birth=there is Y-shape tri-radiate cartilage",
+      "5 years child= the bones are completely ossified",
+      "at puberty= the ischio-pubic ramus is not ossified",
+      "26 years old male= all three bones are completely ossified"
+    ],
+    "a": 3,
+    "e": "By the age of 20-25, the primary pelvic bones (ilium, ischium, pubis) are completely fused and ossified."
+  },
+  {
+    "q": "Regarding the \"latin names\" of the lower limb regions, which pairing is false:",
+    "o": [
+      "hip=coxa",
+      "knee=genu",
+      "buttock=natal",
+      "ankel=tarsal",
+      "leg=thigh"
+    ],
+    "a": 4,
+    "e": "Anatomically, the leg is 'crus' and the thigh is 'femur'. They are distinct regions."
+  },
+  {
+    "q": "Regarding the acetabulum, all are true except:",
+    "o": [
+      "the acetabular margin is \"C\" shape that is incomplete medially",
+      "the acetabular notch is covered by transverse acetabular ligament",
+      "lunate surface articulates with the periphery of head of femur only",
+      "the ilium has the greatest participation in the formation of the acetabulum"
+    ],
+    "a": 0,
+    "e": "The acetabular margin is incomplete inferiorly (forming the acetabular notch), not medially."
+  },
+  {
+    "q": "Regarding the boundary of pelvic inlet , which one is false:",
+    "o": [
+      "Promontory posteriorly",
+      "Linea terminalis",
+      "Pubic symphysis anteriorly",
+      "Sacro_tuberous ligament posterolaterally",
+      "Ala of the sacrum posterolaterally"
+    ],
+    "a": 3,
+    "e": "The sacrotuberous ligament is a posterior-inferior boundary of the pelvic outlet, not the pelvic inlet."
+  },
+  {
+    "q": "Regarding the \"lumber puncture\" which one is false:",
+    "o": [
+      "usually its done below the level of L1-L2 (lumber cistern)",
+      "usually its used to collect CSF for diagnostic purposes",
+      "there is no spinal cord in the sacral canal",
+      "conus medullaris is the terminal segment of spinal cord",
+      "its very dangerous operation with high mortality rate"
+    ],
+    "a": 4,
+    "e": "A lumbar puncture is a standard, relatively safe clinical procedure when done correctly in the lumbar cistern."
+  },
+  {
+    "q": "Acetabulum is formed mainly by:",
+    "o": [
+      "Ilium",
+      "Ischium",
+      "Femur",
+      "Pubis",
+      "Coccyx"
+    ],
+    "a": 0,
+    "e": "The ilium contributes to the superior and largest portion of the acetabulum."
+  },
+  {
+    "q": "Regarding the type of pelvic joints, which one is false:",
+    "o": [
+      "lumbosacral joint= secondary cartilaginous joint",
+      "sacro-iliac joint= synovial joint with high degree of movement",
+      "sacrococcygeal joint=amphiarthrodial joint",
+      "pubic symphysis = secondary cartilaginous joint"
+    ],
+    "a": 1,
+    "e": "The sacro-iliac joint is a strong synovial joint that allows very little movement to maintain stability."
+  },
+  {
+    "q": "In which part of the pelvis do we sit on :",
+    "o": [
+      "Greater Trochanter",
+      "Iliac Crest",
+      "Acetablum",
+      "Ischial Tuberosity"
+    ],
+    "a": 3,
+    "e": "The ischial tuberosities are the robust, posteroinferior parts of the hip bones that bear body weight while sitting."
+  },
+  {
+    "q": "which part of your pelvis are you touching when you put your hands on your hips:",
+    "o": [
+      "Greater Trochanter",
+      "Iliac Crest",
+      "Acetabulum",
+      "Ischial Tuberosity"
+    ],
+    "a": 1,
+    "e": "Resting hands on the hips implies palpating the superior margin of the ilium, known as the iliac crest."
+  },
+  {
+    "q": "Which of the following structures is located between the ischial spine and the ischial tuberosity?",
+    "o": [
+      "obturator foramen",
+      "lesser sciatic notch",
+      "acetabular notch",
+      "pubic arch",
+      "arcuate line"
+    ],
+    "a": 1,
+    "e": "The lesser sciatic notch is anatomically situated just inferior to the ischial spine and superior to the ischial tuberosity."
+  },
+  {
+    "q": "All of the following statements concerning the femur are correct EXCEPT:",
+    "o": [
+      "It is the longest bone in the body.",
+      "It is the heaviest bone in the body.",
+      "Its length is approximately a quarter of the person’s height.",
+      "The distal end of the femur undergoes ossiﬁcation just before birth.",
+      "Its average adult length is 36 inches."
+    ],
+    "a": 4,
+    "e": "The average adult femur is approximately 18 inches long, not 36."
+  },
+  {
+    "q": "The adductor tubercle is located on which of the following bones?",
+    "o": [
+      "femur",
+      "tibia",
+      "ﬁbula",
+      "ischium",
+      "ilium"
+    ],
+    "a": 0,
+    "e": "The adductor tubercle is located on the superior aspect of the medial epicondyle of the femur."
+  },
+  {
+    "q": "A fracture of which of the following bones is among the most troublesome and problematic of all fractures?",
+    "o": [
+      "tibia",
+      "ﬁbula",
+      "patella",
+      "femoral neck",
+      "medial malleolus"
+    ],
+    "a": 3,
+    "e": "Femoral neck fractures are notoriously problematic due to the high risk of disrupting the blood supply, leading to avascular necrosis."
+  },
+  {
+    "q": "All of the following nerves are ventral primary rami EXCEPT:",
+    "o": [
+      "posterior cutaneous nerve of the thigh",
+      "inferior gluteal",
+      "pudendal",
+      "sciatic",
+      "superior cluneal"
+    ],
+    "a": 4,
+    "e": "The superior cluneal nerves originate from the dorsal primary rami of L1-L3."
+  },
+  {
+    "q": "All of the following statements concerning the sciatic nerve are correct EXCEPT",
+    "o": [
+      "It is the largest nerve in the body.",
+      "It is really two nerves.",
+      "It supplies all leg and foot muscles.",
+      "It receives its blood supply from the superior gluteal nerve.",
+      "It passes inferolaterally under cover of the gluteus maximus, midway between the greater trochanter and the ischial tuberosity."
+    ],
+    "a": 3,
+    "e": "The sciatic nerve typically receives its blood supply from a branch of the inferior gluteal artery, not superior."
+  },
+  {
+    "q": "Which of these statements about the femur is incorrect?",
+    "o": [
+      "The intertrochanteric line lies on the anterior aspect of the bone.",
+      "The lateral condyle projects more anteriorly than the medial condyle.",
+      "Gluteus minimus is attached to the lesser trochanter.",
+      "The intertrochanteric crest is the insertion point for the quadratus femoris.",
+      "Gluteus maximus attaches to the gluteal tuberosity."
+    ],
+    "a": 2,
+    "e": "The gluteus minimus inserts into the anterior surface of the greater trochanter. The iliopsoas inserts into the lesser trochanter."
+  },
+  {
+    "q": "In children, the chief femoral arterial supply to the head of the femur is derived from:",
+    "o": [
+      "The obturator artery",
+      "The internal pudendal artery",
+      "Branches from the medial and lateral circumflex humeral arteries",
+      "The deep circumflex iliac artery",
+      "The superficial circumflex iliac artery"
+    ],
+    "a": 0,
+    "e": "In children, the branch of the obturator artery through the ligament of the head of the femur is the primary blood supply."
+  },
+  {
+    "q": "The femoral nerve arises from the following segments of the spinal cord:",
+    "o": [
+      "L2-3",
+      "L4, 5; S1, 2 and 3",
+      "L2, 3 and 4",
+      "L1 and 2",
+      "L5; S1, 2 and 3"
+    ],
+    "a": 2,
+    "e": "The femoral nerve originates from the posterior divisions of the ventral rami of L2, L3, and L4."
+  },
+  {
+    "q": "Which of the following muscles is the strongest flexor of the hip joint?",
+    "o": [
+      "semitendinosus",
+      "elliopsoas",
+      "gluteus medius",
+      "pectineus",
+      "none of above."
+    ],
+    "a": 1,
+    "e": "The iliopsoas (elliopsoas) muscle is the most powerful flexor of the hip."
+  },
+  {
+    "q": "The following cutaneous nerves of the thigh are derived in part form the second lumbar nerve except:",
+    "o": [
+      "ilioinguinal",
+      "medial femoral cutaneous nerve",
+      "obturator nerve",
+      "lateral femoral cutaneous nerve",
+      "genitofemoral nerve"
+    ],
+    "a": 0,
+    "e": "The ilioinguinal nerve originates exclusively from L1, without contribution from L2."
+  },
+  {
+    "q": "The obturator nerve is derived from the anterior rami of:",
+    "o": [
+      "T12, L1 and L2",
+      "L1, L2 and L3",
+      "L2, L3 and L4",
+      "L3, L4 and S1",
+      "none of the above"
+    ],
+    "a": 2,
+    "e": "The obturator nerve arises from the anterior divisions of the ventral rami of L2, L3, and L4."
+  },
+  {
+    "q": "The lumbar plexus is formed by ventral primary rami of:",
+    "o": [
+      "T12, L1, L2 and L3",
+      "L1, L2, L3 and L4",
+      "L2, L3, L4 and L5",
+      "L2, L4, L5 and S1",
+      "formed by dorsal primary rami"
+    ],
+    "a": 1,
+    "e": "The lumbar plexus is primarily formed by the ventral rami of L1, L2, L3, and a majority of L4."
+  },
+  {
+    "q": "The lateral aspect of the thigh has a cutaneous nerve supply derived from:",
+    "o": [
+      "L2 and 3",
+      "L3 and 4",
+      "L5, S1 and S2",
+      "L4, L5 and S1",
+      "S1 and S2"
+    ],
+    "a": 0,
+    "e": "The lateral femoral cutaneous nerve, derived from L2 and L3 roots, supplies the lateral aspect of the thigh."
+  },
+  {
+    "q": "At the upper end of the femur:",
+    "o": [
+      "gluteus maximus is attached to a ridge on the posterior surface",
+      "gluteus medius is attached to the anterior surface of the greater trochanter",
+      "the three secondary centres of ossification fuse together before joining the shaft",
+      "the posterior part of the capsular ligament is attached to the intertrochanteric crest",
+      "main nutrient artery enters the bone"
+    ],
+    "a": 0,
+    "e": "A deep portion of the gluteus maximus attaches to the gluteal tuberosity, a ridge on the posterior surface of the upper femur."
+  },
+  {
+    "q": "The following cutaneous nerves of the thigh are derived in part from the second lumbar spinal nerve except:",
+    "o": [
+      "ilioinguinal nerve",
+      "medial femoral cutaneous nerve",
+      "obturator nerve",
+      "lateral femoral cutaneous nerve"
+    ],
+    "a": 0,
+    "e": "The ilioinguinal nerve comes from L1 only, lacking L2 contribution."
+  },
+  {
+    "q": "Structures passing through the greater sciatic foramen include all of the following EXCEPT:",
+    "o": [
+      "tendon of obturator internus",
+      "piriformis muscle",
+      "posterior cutaneous nerve of the thigh",
+      "pudendal nerve",
+      "nerve to quadratus femoris"
+    ],
+    "a": 0,
+    "e": "The tendon of the obturator internus exits the pelvis via the lesser sciatic foramen, not the greater."
+  },
+  {
+    "q": "Regarding the pudendal nerve:",
+    "o": [
+      "Arises from L5/S1/2",
+      "Emerges from the upper border of piriformis",
+      "Contains only sensory fibers",
+      "Passes medial to the ischial spine",
+      "Passes through the greater sciatic foramen to enter the pelvis"
+    ],
+    "a": 3,
+    "e": "The pudendal nerve wraps around the sacrospinous ligament, passing just medial/posterior to the ischial spine."
+  },
+  {
+    "q": "Which nerve is likely to pe injured in posterior dislocation of hip joint?",
+    "o": [
+      "Superior gluteal n.",
+      "Perforating cutaneous n.",
+      "Pudendal n.",
+      "Sciatic n."
+    ],
+    "a": 3,
+    "e": "The sciatic nerve lies directly posterior to the hip joint and is at high risk during posterior dislocations."
+  },
+  {
+    "q": "Regarding the lesser trochanter of femur, all are true except:",
+    "o": [
+      "its smaller than greater",
+      "lies posteromedially in the femur",
+      "site of attachment of pectineus muscle",
+      "its difficult to be palpated",
+      "lies inferomedially to the greater trochanter"
+    ],
+    "a": 2,
+    "e": "The pectineus muscle attaches to the pectineal line. The lesser trochanter is the attachment site for the iliopsoas."
+  },
+  {
+    "q": "The cremastric muscle is supplied by:",
+    "o": [
+      "iliohypogastric nerve",
+      "femoral nerve",
+      "pudendal nerve",
+      "genitofemoral nerve",
+      "subcostal nerve"
+    ],
+    "a": 3,
+    "e": "The genital branch of the genitofemoral nerve (L1-L2) supplies the cremaster muscle."
+  },
+  {
+    "q": "Regarding the angle of inclination, all are true except:",
+    "o": [
+      "its greater in female than male",
+      "normally between (115 -140)",
+      "represent the angle between the neck and medial aspect of shaft of femur",
+      "it can be changed in some pathological diseases like rickets",
+      "its greater in children than adult"
+    ],
+    "a": 0,
+    "e": "The angle of inclination is typically smaller in females due to the wider characteristic of the female pelvis."
+  },
+  {
+    "q": "What goes through the lesser sciatic foramen",
+    "o": [
+      "Piriformis",
+      "Pudendal nerve",
+      "Obturator nerve",
+      "Superior gluteal artery",
+      "Inferior gluteal artery"
+    ],
+    "a": 1,
+    "e": "The pudendal nerve exits the greater sciatic foramen and immediately re-enters the pelvis/perineum via the lesser sciatic foramen."
+  },
+  {
+    "q": "The segmental supply to the posterior cutaneous nerve of the thigh is:",
+    "o": [
+      "S3, 4",
+      "L4,5",
+      "S1, 2, 3",
+      "L4, 5 and S1",
+      "none of the above"
+    ],
+    "a": 2,
+    "e": "The posterior cutaneous nerve of the thigh is formed by branches from the ventral rami of S1, S2, and S3."
+  },
+  {
+    "q": "Which one of the following nerves is part of the sacral plexus",
+    "o": [
+      "Tibial",
+      "Inferior gluteal",
+      "Sciatic",
+      "Femoral",
+      "B and C"
+    ],
+    "a": 4,
+    "e": "Both the inferior gluteal nerve and the sciatic nerve are direct major branches of the sacral plexus."
+  },
+  {
+    "q": "Which nerve would NOT be affected by a lesion of the spinal cord at L2 :",
+    "o": [
+      "Iliohypogastric",
+      "Lateral cutaneous nerve of thigh",
+      "Femoral",
+      "Obturator"
+    ],
+    "a": 0,
+    "e": "The iliohypogastric nerve is derived from L1 (often with T12), and therefore would be spared by an L2 lesion."
+  },
+  {
+    "q": "Which one of the following nerves has a contribution from the T12 spinal nerve:",
+    "o": [
+      "Iliohypogastric",
+      "genitofemoral",
+      "Obturator",
+      "Femoral",
+      "Lateral Cutaneous"
+    ],
+    "a": 0,
+    "e": "The iliohypogastric nerve originates mainly from L1 but frequently receives a contributing branch from T12."
+  },
+  {
+    "q": "nerve root of accessory obturator nerve:",
+    "o": [
+      "L1 L2",
+      "L2 L3",
+      "L3 L4",
+      "L2 L3 L4"
+    ],
+    "a": 2,
+    "e": "The accessory obturator nerve, present in about 9% of people, arises from the roots of L3 and L4."
+  },
+  {
+    "q": "what are the two largest branches of the lumbar plexus:",
+    "o": [
+      "obturator and femoral nerve",
+      "femoral and hypogatric nerve",
+      "genitofemoral and oburator nerve",
+      "ilioinguinal and hypogastric nerve"
+    ],
+    "a": 0,
+    "e": "The femoral and obturator nerves are the largest terminal branches of the lumbar plexus."
+  },
+  {
+    "q": "which nerve is at risk during appendectomy",
+    "o": [
+      "ilioinguinal nerve",
+      "genitofemoral nerve",
+      "iliohypogastric nerve",
+      "femoral nerve"
+    ],
+    "a": 0,
+    "e": "The ilioinguinal (and iliohypogastric) nerves are superficially located in the right lower quadrant and can be injured during an open appendectomy."
+  },
+  {
+    "q": "The obturator nerve has been cut in a gunshot accident. which movement has been lost in this condition?",
+    "o": [
+      "hip adduction",
+      "hip abduction",
+      "hip flexion",
+      "hip extension"
+    ],
+    "a": 0,
+    "e": "The obturator nerve innervates the medial adductor compartment of the thigh; its loss prevents hip adduction."
+  },
+  {
+    "q": "A patient with a deep knife wound in the buttock walks with a waddling gait that is characterized by the pelvis falling toward one side at each step. Which of the following nerves is damaged?",
+    "o": [
+      "Obturator nerve",
+      "Nerve to obturator internus",
+      "Superior gluteal nerve",
+      "Inferior gluteal nerve",
+      "Femoral nerve"
+    ],
+    "a": 2,
+    "e": "Damage to the superior gluteal nerve weakens the hip abductors, resulting in a waddling (Trendelenburg) gait."
+  },
+  {
+    "q": "A 67-year-old patient has been given a course of antibiotics by gluteal intramuscular injections after a major abdominal surgery. To avoid damaging the sciatic nerve during an injection, the needle should be inserted into which of the following areas?",
+    "o": [
+      "Over the sacrospinous ligament",
+      "Midway between the ischial tuberosity and the lesser trochanter",
+      "Midpoint of the gemelli muscles",
+      "Upper lateral quadrant of the gluteal region",
+      "Lower medial quadrant of the gluteal region"
+    ],
+    "a": 3,
+    "e": "Intramuscular injections must be given in the upper lateral quadrant of the buttock to safely avoid the sciatic nerve."
+  },
+  {
+    "q": "an elderly woman fell at home and fractured the greater trochanter of her femur. Which of the following muscles would continue to function normally?",
+    "o": [
+      "Piriformis",
+      "Obturator internus",
+      "Gluteus medius",
+      "Gluteus maximus",
+      "Gluteus minimus"
+    ],
+    "a": 3,
+    "e": "The gluteus maximus largely inserts into the iliotibial tract and gluteal tuberosity, not the greater trochanter."
+  },
+  {
+    "q": "Which of the following statements concerning the lesser sciatic foramen is correct?",
+    "o": [
+      "It is the passageway for structures entering or leaving the pelvis.",
+      "It is the passageway for structures entering or leaving the perineum.",
+      "All lower limb arteries and nerves leave the pelvis through this foramen.",
+      "The femoral nerve passes through the lesser sciatic foramen.",
+      "The obturator nerve enters the adductor compartment via the lesser sciatic foramen."
+    ],
+    "a": 1,
+    "e": "The lesser sciatic foramen acts as the primary passageway for neurovascular structures entering the perineum."
+  },
+  {
+    "q": "All of the following structures pass through the greater sciatic foramen EXCEPT",
+    "o": [
+      "piriformis muscle",
+      "sciatic nerve",
+      "superior gluteal vessels",
+      "inferior gluteal vessels",
+      "pudendal nerve"
+    ],
+    "a": 4,
+    "e": "While the pudendal nerve technically exits the pelvis via the greater foramen, it immediately turns into the lesser foramen; many MCQ keys use this to distinguish its primary functional path."
+  },
+  {
+    "q": "All of the following statements concerning the gluteus maximus are correct EXCEPT",
+    "o": [
+      "It is used very little during casual walking.",
+      "It assists in making the knee stable.",
+      "It is used very little in climbing upstairs.",
+      "It is used in running.",
+      "It is used when rising from the sitting position."
+    ],
+    "a": 2,
+    "e": "The gluteus maximus is a powerful extensor that is heavily utilized when climbing upstairs or running."
+  },
+  {
+    "q": "The ischial bursa separates the inferior part of which of the following muscles from the ischial tuberosity?",
+    "o": [
+      "gluteus maximus",
+      "gluteus minimus",
+      "gluteus medius",
+      "piriformis",
+      "obturator internus"
+    ],
+    "a": 0,
+    "e": "The ischial bursa overlies the ischial tuberosity, separating it from the overlying gluteus maximus muscle."
+  },
+  {
+    "q": "All of the following statements concerning the gluteus medius and minimus are correct EXCEPT",
+    "o": [
+      "They all have the same nerve supply.",
+      "They have the same actions.",
+      "They are supplied by the same blood vessels.",
+      "They abduct the thigh and rotate it laterally.",
+      "They are largely responsible for preventing sagging of the unsupported side of the pelvis during walking."
+    ],
+    "a": 3,
+    "e": "The gluteus medius and minimus abduct and medially (internally) rotate the thigh, not laterally."
+  },
+  {
+    "q": "The positive Trendelenburg sign is associated with injuries to which of the following?",
+    "o": [
+      "quadriceps femoris",
+      "adductor muscles",
+      "abductors of the thigh",
+      "hamstring muscles",
+      "piriformis muscle"
+    ],
+    "a": 2,
+    "e": "A positive Trendelenburg sign indicates weakness or paralysis of the hip abductors (gluteus medius and minimus)."
+  },
+  {
+    "q": "Which of the following muscles is part of the triceps coxae?",
+    "o": [
+      "obturator externus",
+      "gemelli muscles",
+      "piriformis",
+      "gluteus medius",
+      "quadratus femoris"
+    ],
+    "a": 1,
+    "e": "The triceps coxae consists of three muscles: the superior gemellus, the obturator internus, and the inferior gemellus."
+  },
+  {
+    "q": "All of the following muscles are lateral rotators of the thigh EXCEPT :",
+    "o": [
+      "quadratus femoris",
+      "obturator internus",
+      "obturator externus",
+      "gluteus medius",
+      "inferior gemellus"
+    ],
+    "a": 3,
+    "e": "The gluteus medius primarily acts as a medial (internal) rotator and abductor of the thigh."
+  },
+  {
+    "q": "All of the following statements concerning the inferior clunial nerves are correct EXCEPT :",
+    "o": [
+      "They are gluteal branches of the posterior cutaneous nerve of the thigh.",
+      "These nerves curl around the inferior border of the gluteus maximus.",
+      "They are derivatives of the sacral plexus S1–S3.",
+      "They supply the inferior half of the buttock.",
+      "They are dorsal primary rami."
+    ],
+    "a": 4,
+    "e": "The inferior cluneal nerves branch from the posterior cutaneous nerve of the thigh, which is derived from ventral primary rami."
+  },
+  {
+    "q": "All of the following statements concerning the internal pudendal artery are correct EXCEPT:",
+    "o": [
+      "It does not supply any structures in the gluteal region.",
+      "It passes to the perineum with the pudendal nerve.",
+      "It supplies the external genitalia.",
+      "It crosses the ischial tuberosity.",
+      "It re-enters the pelvis through the lesser sciatic foramen."
+    ],
+    "a": 3,
+    "e": "The internal pudendal artery crosses the ischial spine, not the ischial tuberosity, before entering the lesser sciatic foramen."
+  },
+  {
+    "q": "The piriformis syndrome involves which of the following nerves?",
+    "o": [
+      "sciatic",
+      "obturator",
+      "femoral",
+      "ilioinguinal",
+      "inferior gluteal"
+    ],
+    "a": 0,
+    "e": "Piriformis syndrome occurs when the piriformis muscle spasms and compresses the adjacent sciatic nerve."
+  },
+  {
+    "q": "Which of the following best describes the anatomy of the gluteal muscles?",
+    "o": [
+      "Gluteus maximus is supplied by the superior gluteal artery.",
+      "Gluteus maximus inserts into the greater trochanter.",
+      "Gluteus medius is a lateral rotator at the hip joint.",
+      "They all take origin from the ilium.",
+      "Gluteus minimus is innervated by the inferior gluteal nerve."
+    ],
+    "a": 3,
+    "e": "The gluteus maximus, medius, and minimus all take their origin (at least partially) from the outer surface of the ilium."
+  },
+  {
+    "q": "In walking, the hip bone of the suspended leg is raised by which of the following muscles acting on the supported side of the body?",
+    "o": [
+      "Gluteus maximus",
+      "Obturator internus",
+      "Gluteus medius",
+      "Obturator externus",
+      "Quadratus femoris"
+    ],
+    "a": 2,
+    "e": "The gluteus medius of the stance leg contracts strongly to prevent the suspended side of the pelvis from dropping."
+  },
+  {
+    "q": "The following structures pass through the greater sciatic foramen except the:",
+    "o": [
+      "Superior gluteal artery",
+      "Sciatic nerve",
+      "Obturator internus tendon",
+      "Pudendal nerve",
+      "Inferior gluteal vein"
+    ],
+    "a": 2,
+    "e": "The tendon of the obturator internus passes exclusively through the lesser sciatic foramen."
+  },
+  {
+    "q": "The lymph drainage of the skin of the buttock is into the:",
+    "o": [
+      "Axillary nodes",
+      "Superior gluteal nodes",
+      "Vertical group of superficial inguinal nodes",
+      "Horizontal group of superficial inguinal nodes",
+      "Internal iliac nodes"
+    ],
+    "a": 3,
+    "e": "Superficial lymphatics of the gluteal region drain anteriorly into the lateral group of horizontal superficial inguinal lymph nodes."
+  },
+  {
+    "q": "To lift the left foot off the ground while walking, which of the following muscles play an important role?",
+    "o": [
+      "The left gluteus medius muscle",
+      "The left gluteus maximus muscle",
+      "The right adductor longus muscle",
+      "The right gluteus medius muscle",
+      "None of the above"
+    ],
+    "a": 3,
+    "e": "Lifting the left foot means the right foot is supported. The right gluteus medius must contract to stabilize the pelvis."
+  },
+  {
+    "q": "The following structures are transmitted through the lesser sciatic foramen except:",
+    "o": [
+      "The tendon of the obtarator internus muscle",
+      "The internal pudendal vessels",
+      "The nerve to the obtarator internus muscle",
+      "The pudendal nerve",
+      "The inferior gluteal nerve"
+    ],
+    "a": 4,
+    "e": "The inferior gluteal nerve exits the pelvic cavity through the greater sciatic foramen, below the piriformis."
+  },
+  {
+    "q": "A patient in the supine position with the hip and knee joints extended is asked to abduct the lower limb against resistance provided by the physician. This exercise tests which of the following muscles?",
+    "o": [
+      "The semitendinosus muschle",
+      "The gluteus medius muscle",
+      "The pectineus muscle",
+      "The gracilis muscle",
+      "The semimembranosus muscle"
+    ],
+    "a": 1,
+    "e": "Abduction of the extended lower limb against resistance is a direct clinical test for gluteus medius strength."
+  },
+  {
+    "q": "Select the incorrect statement about the gluteus maximus:",
+    "o": [
+      "Gets its entire motor innervation from the inferior gluteal nerve",
+      "Is an important hip stabilizer in walking",
+      "Produces hip extension",
+      "Inserts primarily into the iliotibial tract",
+      "Takes a portion of its origin from the sacrotuberous ligament"
+    ],
+    "a": 1,
+    "e": "Gluteus maximus is largely inactive during casual walking; hip stabilization in walking is primarily the role of gluteus medius."
+  },
+  {
+    "q": "Structures traversing the lesser sciatic foramen include all of the following except:",
+    "o": [
+      "Pudendal nerve",
+      "Inferior gluteal nerve",
+      "Tendon of obturator internus",
+      "Internal pudendal artery",
+      "Internal pudendal vein"
+    ],
+    "a": 1,
+    "e": "The inferior gluteal nerve passes through the greater sciatic foramen to supply the gluteus maximus."
+  },
+  {
+    "q": "The only artery to enter the lesser sciatic foramen is the:",
+    "o": [
+      "Sciatic artery",
+      "Inferior gluteal artery",
+      "Obturator artery",
+      "Internal pudendal artery",
+      "Deep femoral artery"
+    ],
+    "a": 3,
+    "e": "The internal pudendal artery crosses the ischial spine and enters the perineum via the lesser sciatic foramen."
+  },
+  {
+    "q": "Blood supply to gluteal muscles comes primarily from:",
+    "o": [
+      "The femoral artery",
+      "The obturator artery",
+      "The profundal femoris (deep femoral) artery",
+      "The popliteal artery",
+      "Branches of the internal iliac artery"
+    ],
+    "a": 4,
+    "e": "The superior and inferior gluteal arteries, which supply these muscles, are direct branches of the internal iliac artery."
+  },
+  {
+    "q": "Superior gluteal nerve:",
+    "o": [
+      "Innervates gluteus medius",
+      "Lies in the interval between gluteus minimus and gluteus medius",
+      "Leaves the pelvis via the greater sciatic foramen",
+      "Lacks a cutaneous component",
+      "All of the above"
+    ],
+    "a": 4,
+    "e": "The superior gluteal nerve fulfills all these criteria: it's purely motor, supplies medius/minimus/TFL, and exits above piriformis."
+  },
+  {
+    "q": "Which of the following is NOT a lateral rotator of the hip?",
+    "o": [
+      "pirifonnis",
+      "gluteus medius",
+      "obturator internus",
+      "obturator externus",
+      "none of above"
+    ],
+    "a": 1,
+    "e": "The gluteus medius acts mainly as an abductor and medial rotator of the hip."
+  },
+  {
+    "q": "iliotibial tract recieves the lasertion of:",
+    "o": [
+      "gluteus max. and gluteus min",
+      "gluteus med, and gluteus min",
+      "gluteus max. and gluteus med",
+      "gluteus max, and tenser fascia"
+    ],
+    "a": 3,
+    "e": "The iliotibial tract is a thickened band of fascia that receives insertions from the gluteus maximus and tensor fasciae latae."
+  },
+  {
+    "q": "The gluteus maximus muscle:",
+    "o": [
+      "Rotates the hip medially",
+      "Flex the hip joint",
+      "supplied by the superior gluteal nerve",
+      "is inseried more into the iliotibial tract than the femur",
+      "abduct the hip joint"
+    ],
+    "a": 3,
+    "e": "Approximately 75% to 80% of the gluteus maximus inserts into the iliotibial tract, with the remainder on the gluteal tuberosity."
+  },
+  {
+    "q": "Tensor fasciae latae is supplied by :",
+    "o": [
+      "anterior division of femoral nerve",
+      "superior gluteal nerve",
+      "nerve to vastus lateralis",
+      "inferior gluteal nerve",
+      "lateral femoral cutaneous nerve"
+    ],
+    "a": 1,
+    "e": "The tensor fasciae latae, alongside gluteus medius and minimus, is innervated by the superior gluteal nerve."
+  },
+  {
+    "q": "The muscle which provides the most control of hip joint movement during the act of sitting is:",
+    "o": [
+      "iliacus",
+      "semitendinosis",
+      "semimembranosis",
+      "gluteus maximus",
+      "gluteus medius"
+    ],
+    "a": 3,
+    "e": "The gluteus maximus controls hip flexion during the act of sitting down by performing an eccentric contraction."
+  },
+  {
+    "q": "Fascia lata is not:",
+    "o": [
+      "attached inferiorly to the tibial condyles and head of the fibula",
+      "reinforced anteriorly by expansions from the quadriceps tendon",
+      "attached to Scarpa’s fascia above the inguinal ligament",
+      "continuous below the popliteal fossa into the deep fascia of the calf",
+      "attached superiorly along the external lip of the iliac crest"
+    ],
+    "a": 2,
+    "e": "The fascia lata attaches firmly to the inguinal ligament itself, not to the membranous layer of superficial fascia (Scarpa's) above it."
+  },
+  {
+    "q": "The iliotibial tract:",
+    "o": [
+      "lies lateral to tensor fascia latae",
+      "inserts onto the head of the fibula",
+      "is the origin of 60% of gluteus maximus",
+      "is a weak flexor of the knee via tensor fascia latae",
+      "is attached superiorly to the iliac crest"
+    ],
+    "a": 4,
+    "e": "The iliotibial tract is attached superiorly to the iliac crest and descends laterally to attach to the lateral condyle of the tibia (Gerdy's tubercle)."
+  },
+  {
+    "q": "The inferior gluteal nerve supplies:",
+    "o": [
+      "gluteus maximus",
+      "gluteus medius",
+      "gluteus minimus",
+      "all of the above",
+      "none of the above"
+    ],
+    "a": 0,
+    "e": "The inferior gluteal nerve specifically and exclusively innervates the large gluteus maximus muscle."
+  },
+  {
+    "q": "Within the buttock:",
+    "o": [
+      "the pudendal nerve emerges beneath piriformis, turns around the back of the sacrospinous ligament and passes between the sacrotuberous and sacrospinous ligaments",
+      "the internal pudendal artery can be compressed against the base of the ischial tuberosity",
+      "the sciatic nerve (L4, 5, S1) emerges from below piriformis muscle more laterally than the inferior gluteal and pudendal nerves and vessels",
+      "the posterior femoral cutaneous nerve lies medially to the sciatic nerve",
+      "the cruciate anastomosis provides the main source of blood for the supply of the head of femur"
+    ],
+    "a": 0,
+    "e": "The pudendal nerve exits via the greater sciatic foramen beneath piriformis and wraps around the sacrospinous ligament to enter the lesser foramen."
+  },
+  {
+    "q": "Fourth lumbar nerve root supplies:",
+    "o": [
+      "hip flexors",
+      "tibialis anterior",
+      "skin on the big toe",
+      "flexor longus digitorum",
+      "flexor accessories (quadratus plantae)"
+    ],
+    "a": 1,
+    "e": "The L4 root makes a major contribution to the deep fibular nerve, which powerfully supplies the tibialis anterior muscle."
+  },
+  {
+    "q": "The main function of gluteus maximus is which of the following:",
+    "o": [
+      "a site for injections",
+      "a cushion for sitting",
+      "a flexor of the hip",
+      "a lateral rotator of the hip",
+      "none of the above"
+    ],
+    "a": 4,
+    "e": "Its primary anatomical function is powerful extension of the hip joint. Lateral rotation is secondary, making 'none of the above' the technically selected answer in typical strict keys."
+  },
+  {
+    "q": "Tensor fascia latae:",
+    "o": [
+      "is quadrangular in shape",
+      "is supplied by the femoral nerve",
+      "extends the hip",
+      "is an atavistic remnant of the panniculus carnosus muscle",
+      "lies edge to edge with sartorius at the anterior superior iliac spine"
+    ],
+    "a": 4,
+    "e": "The origins of the tensor fasciae latae and sartorius muscles abut each other at the anterior superior iliac spine (ASIS)."
+  },
+  {
+    "q": "The sciatic nerve in the gluteal region:",
+    "o": [
+      "rests directly on ischium",
+      "is accompanied by posterior cutaneous nerve of thigh",
+      "supplies obturator internus",
+      "supplies quadratus femoris",
+      "none of the above"
+    ],
+    "a": 0,
+    "e": "After exiting below the piriformis, the sciatic nerve descends resting on the posterior surface of the ischium."
+  },
+  {
+    "q": "Which of the following structures does NOT pass through the greater sciatic foramen?",
+    "o": [
+      "the sciatic nerve",
+      "the pudendal nerve and vessels",
+      "the posterior cutaneous nerve of the thigh",
+      "the inferior gluteal nerve and vessels",
+      "the nerve to obturator externus"
+    ],
+    "a": 4,
+    "e": "The nerve to the obturator externus is a branch of the obturator nerve, which exits the pelvis via the obturator foramen."
+  }
+]

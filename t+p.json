@@ -1,0 +1,1910 @@
+[
+  {
+    "q": "41-year-old man was involved in a ﬁght and felt weakness in extending the knee joint. On examination, he was diagnosed with a lesion of the femoral nerve. Which of the following symptoms would be a result of this nerve damage?",
+    "o": [
+      "Paralysis of the psoas major muscle",
+      "Loss of skin sensation on the lateral side of the foot",
+      "Loss of skin sensation over the greater trochanter",
+      "Paralysis of the vastus lateralis muscle",
+      "Paralysis of the tensor fasciae latae"
+    ],
+    "a": 3,
+    "e": "The femoral nerve innervates the quadriceps femoris (including vastus lateralis) which extends the knee."
+  },
+  {
+    "q": "A 52-year-old woman slipped and fell and now complains of being unable to extend her leg at the knee joint. Which of the following muscles was paralyzed as a result of this accident?",
+    "o": [
+      "Semitendinosus",
+      "Sartorius",
+      "Gracilis",
+      "Quadriceps femoris",
+      "Biceps femoris"
+    ],
+    "a": 3,
+    "e": "The quadriceps femoris is the primary extensor of the leg at the knee joint."
+  },
+  {
+    "q": "The deep fascia of the thigh is known as which of the following?",
+    "o": [
+      "Scarpa’s fascia",
+      "Colles’ fascia",
+      "crural fascia",
+      "fascia lata"
+    ],
+    "a": 3,
+    "e": "Fascia lata is the anatomical term for the deep fascia of the thigh."
+  },
+  {
+    "q": "The small saphenous vein empties into which of the following veins?",
+    "o": [
+      "femoral",
+      "tibial",
+      "peroneal",
+      "popliteal",
+      "great saphenous"
+    ],
+    "a": 3,
+    "e": "The small saphenous vein ascends the posterior leg and pierces the deep fascia to drain into the popliteal vein."
+  },
+  {
+    "q": "Which of the following statements correctly applies to the iliopsoas muscle?",
+    "o": [
+      "It is a ﬂat quadrangular muscle.",
+      "It is the chief ﬂexor of the thigh.",
+      "It is enclosed between two layers of fascia lata.",
+      "It inserts into the iliotibial tract.",
+      "It is located in the posterior compartment of the thigh."
+    ],
+    "a": 1,
+    "e": "The iliopsoas is the most powerful flexor of the thigh at the hip joint."
+  },
+  {
+    "q": "All of the following statements concerning the sartorius muscle are correct EXCEPT",
+    "o": [
+      "It is known as the “tailor’s muscle.”",
+      "It is the longest muscle in the body.",
+      "It acts across two joints.",
+      "It extends the hip.",
+      "It is located in the anterior compartment of the thigh."
+    ],
+    "a": 3,
+    "e": "The sartorius flexes the hip and knee joints; it does not extend the hip."
+  },
+  {
+    "q": "All of the following statements concerning the quadriceps femoris are correct EXCEPT",
+    "o": [
+      "Collectively constitutes the largest and most powerful muscle group in the body.",
+      "It is the great extensor of the thigh.",
+      "It inserts onto the tibia.",
+      "It forms the main bulk of the anterior thigh muscles.",
+      "The patella provides additional leverage for the quadriceps."
+    ],
+    "a": 1,
+    "e": "The quadriceps extends the leg at the knee joint, not the thigh at the hip."
+  },
+  {
+    "q": "Which of the following statements concerning the components of the quadriceps femoris is correct?",
+    "o": [
+      "The rectus femoris is considered the “kicking muscle.”",
+      "The vastus lateralis is the smallest component of the quadriceps.",
+      "The articularis genus is a derivative of the vastus lateralis.",
+      "The rectus femoris lies deep to the vastus intermedius.",
+      "The vastus intermedius is the chief ﬂexor of the thigh."
+    ],
+    "a": 0,
+    "e": "Rectus femoris flexes the hip and extends the knee, actions used in kicking."
+  },
+  {
+    "q": "All of the following statements concerning the femoral triangle are correct EXCEPT",
+    "o": [
+      "Its superior border is the inguinal ligament.",
+      "Its lateral border is the sartorius.",
+      "It is bisected by the femoral artery and vein.",
+      "The saphenous nerve passes through the femoral triangle.",
+      "Its medial border is the adductor magnus."
+    ],
+    "a": 4,
+    "e": "The medial border of the femoral triangle is formed by the medial margin of the adductor longus, not adductor magnus."
+  },
+  {
+    "q": "All of the following statements concerning the femoral sheath are correct EXCEPT",
+    "o": [
+      "It extends 3 to 4 cm inferior the inguinal ligament.",
+      "It is formed by an inferior prolongation of transversalis and iliopsoas fascia.",
+      "It encloses the femoral nerve.",
+      "Its medial wall is pierced by the great saphenous vein and lymphatic vessels.",
+      "It ends by becoming continuous with the adventitia of the femoral vessels."
+    ],
+    "a": 2,
+    "e": "The femoral nerve lies lateral to the femoral sheath and is NOT enclosed within it."
+  },
+  {
+    "q": "All of the following statements concerning the femoral canal are correct EXCEPT",
+    "o": [
+      "It contains the femoral nerve.",
+      "It is the medial compartment of the femoral sheath.",
+      "It allows the femoral vein to expand when venous return from the lower limb is increased.",
+      "It extends distally to the level of the proximal edge of the saphenous opening.",
+      "It contains loose connective tissue, fat, a few lymphatic vessels, and sometimes a deep inguinal lymph node (Cloquet’s node)."
+    ],
+    "a": 0,
+    "e": "The femoral canal is the medial compartment of the sheath; the femoral nerve is outside the sheath entirely."
+  },
+  {
+    "q": "All of the following statements concerning the femoral ring are correct EXCEPT",
+    "o": [
+      "The lacunar ligament forms its medial boundary.",
+      "The anterior boundary is formed by the inguinal ligament.",
+      "The femoral artery forms its lateral boundary.",
+      "Its proximal end is closed by extraperitoneal fatty tissue that forms the femoral septum.",
+      "It lies anterior to the pectineus muscle."
+    ],
+    "a": 2,
+    "e": "The lateral boundary of the femoral ring is the femoral vein, not the artery."
+  },
+  {
+    "q": "Which of the following statements concerning the femoral artery is correct?",
+    "o": [
+      "It enters the femoral canal.",
+      "It enters the adductor canal.",
+      "It passes dorsal to the inguinal ligament.",
+      "It gives rise to the inferior epigastric artery.",
+      "It passes through the obturator canal."
+    ],
+    "a": 1,
+    "e": "The femoral artery descends and enters the adductor (Hunter's) canal in the middle third of the thigh."
+  },
+  {
+    "q": "Which of the following statements concerning the deep artery of the thigh is correct?",
+    "o": [
+      "It is the largest branch of the femoral artery.",
+      "It passes through the adductor canal.",
+      "It gives rise to the deep circumﬂex iliac branch.",
+      "It exits the adductor canal through the adductor hiatus.",
+      "It passes through the obturator foramen."
+    ],
+    "a": 0,
+    "e": "The profunda femoris (deep artery of the thigh) is the largest and most important branch of the femoral artery."
+  },
+  {
+    "q": "Which of the following arteries supplies most of the blood to the head and neck of the femur?",
+    "o": [
+      "medial circumﬂex femoral",
+      "obturator",
+      "lateral circumﬂex femoral",
+      "external pudendal",
+      "deep circumﬂex iliac"
+    ],
+    "a": 0,
+    "e": "The medial circumflex femoral artery is the chief blood supply to the head and neck of the femur in adults."
+  },
+  {
+    "q": "Muscles that evert the foot include which of the following muscles?",
+    "o": [
+      "gastrocnemius",
+      "soleus",
+      "tibialis posterior",
+      "ﬁbularis brevis",
+      "ﬂexor digitorum longus"
+    ],
+    "a": 3,
+    "e": "Fibularis (peroneus) brevis is located in the lateral compartment of the leg and everts the foot."
+  },
+  {
+    "q": "Consider the fascia and compartments of the thigh, Which statement is correct?",
+    "o": [
+      "The iliotibial tract lies superficial to the fascia lata.",
+      "The iliotibial tract inserts onto the lateral epicondyle of the femur.",
+      "The femoral vein passes through the fascia lata.",
+      "There are three compartments.",
+      "There are three intermuscular septa in the thigh."
+    ],
+    "a": 3,
+    "e": "The thigh is divided into three compartments: anterior, medial, and posterior."
+  },
+  {
+    "q": "Consider these statements about the anterior compartment of the thigh, Which of them is not correct?",
+    "o": [
+      "All the muscles of the anterior compartment are innervated by the femoral nerve.",
+      "Sartorius flexes both the hip and knee joint.",
+      "The quadriceps tendon inserts directly onto the tibia.",
+      "Quadriceps femoris flexes the hip joint.",
+      "Vastus medialis is of importance in preventing lateral dislocation of the patella."
+    ],
+    "a": 2,
+    "e": "The quadriceps tendon inserts onto the patella, from which the patellar ligament connects to the tibial tuberosity."
+  },
+  {
+    "q": "Consider the femoral sheath and canal, Which of these statements is not correct?",
+    "o": [
+      "The femoral sheath is continuous with the transversalis fascia.",
+      "The sheath contains the femoral nerve.",
+      "The femoral canal lies medial within the sheath.",
+      "The canal is wider in the female.",
+      "The canal contains Cloquet’s node."
+    ],
+    "a": 1,
+    "e": "The femoral nerve is located lateral to the femoral sheath, not within it."
+  },
+  {
+    "q": "Which statement correctly describes the femoral triangle?",
+    "o": [
+      "Its medial boundary is the lateral border of adductor longus.",
+      "The floor is formed by the fascia lata.",
+      "The femoral vein passes to lie anterior to the femoral artery at the apex.",
+      "It contains the short saphenous vein.",
+      "It contains the saphenous nerve."
+    ],
+    "a": 4,
+    "e": "The saphenous nerve, a branch of the femoral nerve, traverses the femoral triangle."
+  },
+  {
+    "q": "Which statement best describes the common femoral artery?",
+    "o": [
+      "Commences at the midpoint of the inguinal ligament.",
+      "Gives the profunda femoris branch within the femoral sheath.",
+      "Lies between the saphenous nerve and femoral vein at all levels of the thigh.",
+      "Lies over pectineus as it passes under the inguinal ligament.",
+      "Becomes the popliteal artery as it leaves the femoral triangle."
+    ],
+    "a": 2,
+    "e": "In the femoral triangle, the femoral artery lies structurally between the laterally placed saphenous nerve and medially placed femoral vein."
+  },
+  {
+    "q": "Which of the following nerves innervates at least one muscle that acts on both the hip and knee joints?",
+    "o": [
+      "Ilioinguinal nerve",
+      "Femoral nerve",
+      "Saphenous nerve",
+      "Common peroneal nerve",
+      "Superficial peroneal nerve"
+    ],
+    "a": 1,
+    "e": "The femoral nerve innervates rectus femoris and sartorius, both of which cross and act on the hip and knee joints."
+  },
+  {
+    "q": "Which of the following muscles is a flexor of the thigh?",
+    "o": [
+      "Superior gamellus",
+      "Adductor longus",
+      "Gracilis",
+      "Psoas",
+      "Obturator internus"
+    ],
+    "a": 3,
+    "e": "The psoas major (iliopsoas) is the primary and most powerful flexor of the thigh."
+  },
+  {
+    "q": "The floor of the femoral triangle is formed by the following muscles except the:",
+    "o": [
+      "Pectineus",
+      "Adductor longus",
+      "Iliacus",
+      "Psoas",
+      "Adductor brevis"
+    ],
+    "a": 4,
+    "e": "Adductor brevis lies deep to the adductor longus and pectineus, so it does not form the floor of the femoral triangle."
+  },
+  {
+    "q": "The femoral ring is bounded by the following structures except the:",
+    "o": [
+      "Femoral vein",
+      "Lacunar ligament",
+      "Superior ramus of the pubis",
+      "Femoral artery",
+      "Inguinal ligament"
+    ],
+    "a": 3,
+    "e": "The femoral vein forms the lateral boundary of the femoral ring; the artery is further lateral."
+  },
+  {
+    "q": "A femoral hernia descends through the femoral canal, and the NECK of the hernial sac lies:",
+    "o": [
+      "At the saphenous opening",
+      "Above and medial to the pubic tubercle",
+      "Below and lateral to the pubic tubercle",
+      "In the obturator canal",
+      "Lateral to the iliacus muscle"
+    ],
+    "a": 2,
+    "e": "The neck of a femoral hernia is located below and lateral to the pubic tubercle (unlike an inguinal hernia which is above and medial)."
+  },
+  {
+    "q": "In the adult, the chief arterial supply to the head of the femur is from the:",
+    "o": [
+      "Superficial circumflex iliac artery",
+      "Obturator artery",
+      "Branches from the medial and lateral circumflex femoral arteries",
+      "Deep external pudendal artery",
+      "Inferior gluteal artery"
+    ],
+    "a": 2,
+    "e": "Retinacular arteries branching predominantly from the medial (and lateral) circumflex femoral arteries supply the adult femoral head."
+  },
+  {
+    "q": "The femoral ring is:",
+    "o": [
+      "The opening in the deep fascia of the thigh for the great saphenous vein",
+      "The opening in the adductor magnus muscle for the femoral artery",
+      "The proximal opening in the femoral canal",
+      "The compartment in the femoral sheath for the femoral artery",
+      "The compartment in the femoral sheath for the femoral nerve"
+    ],
+    "a": 2,
+    "e": "The femoral ring is the superior (proximal) abdominal opening of the femoral canal."
+  },
+  {
+    "q": "All the following statements about the sartorius are correct except:",
+    "o": [
+      "It flexes the leg at the knee joint",
+      "It flexes the thigh at the hip joint",
+      "It laterally rotates the thigh at the hip joint",
+      "It adducts the thigh at the hip joint",
+      "It attaches to the anterior superior iliac spine"
+    ],
+    "a": 3,
+    "e": "Sartorius abducts the thigh (as in the tailor sitting position); it does not adduct."
+  },
+  {
+    "q": "The femoral sheath is formed by which of the following layer(s) of fascia?",
+    "o": [
+      "The pectineus fascia",
+      "The fascia iliaca and the fascia transversalis",
+      "The fascia lata and the membranous layer of the superficial fascia",
+      "The psoas fascia and the fatty layer of superficial fascia",
+      "The processus vaginalis"
+    ],
+    "a": 1,
+    "e": "It is a funnel-like downward prolongation of the transversalis fascia (anteriorly) and fascia iliaca (posteriorly)."
+  },
+  {
+    "q": "The following facts regarding the great saphenous vein are true except:",
+    "o": [
+      "It arises on the dorsum of the foot",
+      "It enters the leg by passing anterior to the medial malleolus",
+      "It drains into the femoral vein approximately 1.5 inch (3.8 cm) below and lateral to the pubic tubercle",
+      "It is accompanied by the saphenous nerve",
+      "It has no communication with the deep veins of the leg"
+    ],
+    "a": 4,
+    "e": "The great saphenous vein has numerous perforating veins that communicate with the deep venous system."
+  },
+  {
+    "q": "The Great Saphenous Vein:",
+    "o": [
+      "Lies anterior to the medial malleolus",
+      "Lies posterior to the central axis of the knee joint",
+      "Has communication with the short saphenous vein",
+      "Pierces the femoral sheath",
+      "All of the above"
+    ],
+    "a": 4,
+    "e": "All stated anatomical relations of the great saphenous vein are correct."
+  },
+  {
+    "q": "The fascia lata is an insertion for the following muscles:",
+    "o": [
+      "Gluteus minimus",
+      "Tensor fascia lata",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "a": 1,
+    "e": "The tensor fasciae latae inserts directly into the iliotibial tract, a thickened lateral portion of the fascia lata."
+  },
+  {
+    "q": "The femoral sheath:",
+    "o": [
+      "Contains 3 compartments: each for the femoral artery, vein and nerve",
+      "Saphenous opening on anterior surface for the great saphenous vein",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "a": 1,
+    "e": "The anterior wall of the femoral sheath (at the saphenous opening) is pierced by the great saphenous vein."
+  },
+  {
+    "q": "The fascia lata is an insertion for the following muscle(s)?",
+    "o": [
+      "Gluteus maximus",
+      "Gluteus medius",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "a": 0,
+    "e": "About 75-80% of the gluteus maximus inserts into the iliotibial tract of the fascia lata."
+  },
+  {
+    "q": "The femoral artery:",
+    "o": [
+      "Has a common sheath with the femoral nerve",
+      "Begins midway between anterior superior iliac spine & pubic symphisis",
+      "Lies medial to the femoral vein",
+      "Has no superficial branches",
+      "Its profunda branch supplies the calf muscles"
+    ],
+    "a": 1,
+    "e": "The femoral artery enters the thigh behind the inguinal ligament precisely at the mid-inguinal point."
+  },
+  {
+    "q": "Select the incorrect statement about the femoral artery:",
+    "o": [
+      "Lies on psoas major",
+      "Is continuation of the external iliac artery",
+      "Passes beneath the inguinal ligament",
+      "Is used in cannulation",
+      "Lies medial to the femoral canal"
+    ],
+    "a": 4,
+    "e": "The femoral artery is lateral to the femoral vein, which is lateral to the femoral canal."
+  },
+  {
+    "q": "Which of the following muscles does NOT receive its blood supply from branches of the internal iliac artery:",
+    "o": [
+      "Gluteus maximus",
+      "Superior gamellus",
+      "Vastus lateralis",
+      "Iliacus",
+      "Piriformis"
+    ],
+    "a": 2,
+    "e": "Vastus lateralis is supplied by the lateral circumflex femoral artery, a branch of the profunda femoris."
+  },
+  {
+    "q": "Which of the following statements about the femoral nerve is false?",
+    "o": [
+      "It is formed by dorsal division fibers of the lumbar plexus",
+      "It innervates the knee extensors",
+      "It lies medial to the femoral artery in the femoral triangle",
+      "It supplies sensory innervation to the medial side of the leg and foot via the saphenous nerve",
+      "It innervates the sartorius muscle"
+    ],
+    "a": 2,
+    "e": "The femoral nerve lies lateral to the femoral artery."
+  },
+  {
+    "q": "Midinguinal point:",
+    "o": [
+      "Midway between anterior superior iliac spine and pubic tubercle",
+      "Midway between anterior superior iliac spine and pubic symphysis",
+      "Midway between anterior superior iliac spine and pubic crest",
+      "Femoral artery lies two centimeters medial to this point",
+      "Deep inguinal ring is five centimeters above this point"
+    ],
+    "a": 1,
+    "e": "The mid-inguinal point is halfway between the ASIS and the pubic symphysis, marking the external iliac/femoral artery transition."
+  },
+  {
+    "q": "The medial border of the femoral triangle is formed by the:",
+    "o": [
+      "sartorius muscle",
+      "adductor longus muscle",
+      "inguinal ligament",
+      "psoas muscle",
+      "none of the above"
+    ],
+    "a": 1,
+    "e": "The medial border of the adductor longus muscle forms the medial boundary of the femoral triangle."
+  },
+  {
+    "q": "Which of the following structures covers the saphenous opening in the fascia lata?",
+    "o": [
+      "lateral intermuscular septum",
+      "medial intermuscular septum",
+      "crural fascia",
+      "cribriform fascia",
+      "iliotibial tract"
+    ],
+    "a": 3,
+    "e": "The cribriform fascia is a sieve-like membranous covering over the saphenous opening."
+  },
+  {
+    "q": "Which of the following structures passes through the saphenous opening?",
+    "o": [
+      "femoral artery",
+      "femoral vein",
+      "femoral nerve",
+      "obturator nerve",
+      "great saphenous vein"
+    ],
+    "a": 4,
+    "e": "The great saphenous vein passes deeply through the saphenous opening to drain into the femoral vein."
+  },
+  {
+    "q": "the vessels pass in adductor canal is:",
+    "o": [
+      "great saphenus vein",
+      "Femoral",
+      "Obturator",
+      "popliteal",
+      "B and C"
+    ],
+    "a": 1,
+    "e": "The femoral artery and femoral vein traverse the adductor (Hunter's) canal."
+  },
+  {
+    "q": "The medial boundary of femoral ring is formed by:",
+    "o": [
+      "Lacunar lilgament",
+      "The pectin pubis",
+      "femoral vein",
+      "Femoral nerve",
+      "Inguinal ligament"
+    ],
+    "a": 0,
+    "e": "The lacunar ligament forms the sharp medial boundary of the femoral ring."
+  },
+  {
+    "q": "Which is not a content of femoral sheath:",
+    "o": [
+      "Femoral nerve",
+      "Femoral artery",
+      "Femoral vein",
+      "Deep inguinal node",
+      "connective tissues"
+    ],
+    "a": 0,
+    "e": "The femoral nerve lies outside (lateral to) the femoral sheath."
+  },
+  {
+    "q": "Which of the following structures covers the saphenous opening in the fascla lata?",
+    "o": [
+      "lateral Intermuscular septum",
+      "medial Intermuscular septum",
+      "crural fascia",
+      "cribriform fascia.",
+      "None of Above"
+    ],
+    "a": 3,
+    "e": "The cribriform fascia covers the saphenous opening."
+  },
+  {
+    "q": "The superficial external pudendal artery is a branch of:",
+    "o": [
+      "femoral artery",
+      "External lilac artery",
+      "Internal lac artery",
+      "Aorta",
+      "Obfuralor Artery"
+    ],
+    "a": 0,
+    "e": "The superficial external pudendal artery is a superficial branch arising from the femoral artery in the femoral triangle."
+  },
+  {
+    "q": "Regarding the femoral artery:",
+    "o": [
+      "adductor magnus lies between it and the profunda femoris artery",
+      "the profunda femoris vein lies behind the profunda femoris artery",
+      "profunda femoris artery arises from its posterior surface",
+      "the lateral circumflex femoral artery separates the superficial and deep branches of the femoral nerve",
+      "the femoral vein is always on its medial side"
+    ],
+    "a": 3,
+    "e": "The lateral circumflex femoral artery characteristically passes between the superficial and deep divisions of the femoral nerve."
+  },
+  {
+    "q": "The following are branches of the femoral artery except:",
+    "o": [
+      "superficial circumflex iliac artery",
+      "superficial epigastric artery",
+      "superficial external pudendal artery",
+      "deep external pudendal artery",
+      "middle genicular artery"
+    ],
+    "a": 4,
+    "e": "The middle genicular artery is a branch of the popliteal artery, not the femoral."
+  },
+  {
+    "q": "Which of the following, regarding the great saphenous vein, is INCORRECT?",
+    "o": [
+      "it is the longest vein in the body",
+      "it passes behind the medial malleolus",
+      "at the knee, it lies a hand’s breadth behind the medial border of the atella",
+      "the saphenous opening lies about 3cm below and lateral to the pubic tubercle",
+      "the deep external pudendal artery runs medially behind the saphenous vein near its termination"
+    ],
+    "a": 1,
+    "e": "The great saphenous vein consistently passes ANTERIOR to the medial malleolus."
+  },
+  {
+    "q": "Which of the following muscles is not found in the floor of the femoral triangle?",
+    "o": [
+      "iliacus",
+      "psoas",
+      "pectineus",
+      "adductor magnus",
+      "adductor longus"
+    ],
+    "a": 3,
+    "e": "Adductor magnus is located posterior to adductor longus and brevis, far from the floor of the femoral triangle."
+  },
+  {
+    "q": "Which of the following is not found within the femoral sheath?",
+    "o": [
+      "femoral artery",
+      "femoral canal",
+      "femoral hernia",
+      "femoral nerve",
+      "lymph node of Cloquet"
+    ],
+    "a": 3,
+    "e": "The femoral nerve is distinctly lateral to the femoral sheath."
+  },
+  {
+    "q": "Which of the following is INCORRECT regarding the femoral nerve?",
+    "o": [
+      "is formed from the anterior divisions of the anterior rami of the lumbar nerves 2, 3 and 4",
+      "supplies iliacus in the abdomen",
+      "lies in the iliac fossa between psoas and iliacus",
+      "gives a branch to pectineus as it enters the femoral triangle",
+      "divides into several branches just distal to the inguinal ligament"
+    ],
+    "a": 0,
+    "e": "The femoral nerve is formed from the POSTERIOR divisions of the anterior rami of L2-L4."
+  },
+  {
+    "q": "All the following are branches of the femoral nerve except:",
+    "o": [
+      "medial femoral cutaneous nerve",
+      "saphenous nerve",
+      "nerve to vastus medialis",
+      "lateral femoral cutaneous nerve",
+      "nerve to sartorius"
+    ],
+    "a": 3,
+    "e": "The lateral femoral cutaneous nerve is a direct branch of the lumbar plexus (L2, L3)."
+  },
+  {
+    "q": "Which factor is most important in preventing lateral displacement of the patella during quadriceps contraction?",
+    "o": [
+      "the forward prominence of the lateral condyle of the femur",
+      "the action of articularis genu",
+      "the action of vastus medialis",
+      "the action of rectus femoris",
+      "the tension of the medial patellar retinaculum"
+    ],
+    "a": 2,
+    "e": "The horizontal lower fibers of vastus medialis (VMO) actively pull the patella medially during extension."
+  },
+  {
+    "q": "Cutaneous nerve supply of the thigh involves all but which of the following:",
+    "o": [
+      "the intermediate femoral cutaneous nerve",
+      "the obturator nerve",
+      "the genital branch of the genitofemoral nerve",
+      "the ilioinguinal nerve",
+      "the posterior cutaneous nerves of the thigh"
+    ],
+    "a": 2,
+    "e": "The genital branch supplies the cremaster muscle and scrotum/labia; the femoral branch supplies the skin of the upper anterior thigh."
+  },
+  {
+    "q": "The femoral canal:",
+    "o": [
+      "is the lateral compartment of the femoral sheath",
+      "lies medial to the pubic tubercle",
+      "contains the femoral nerve",
+      "is medial to the femoral vein",
+      "transmits the femoral branch of the genitofemoral nerve"
+    ],
+    "a": 3,
+    "e": "The anatomical arrangement from lateral to medial is: Nerve, Artery, Vein, Canal."
+  },
+  {
+    "q": "The great saphenous vein:",
+    "o": [
+      "commences at the medial end of the dorsal venous arch",
+      "passes behind the medial malleolus",
+      "is accompanied by the saphenous nerve throughout its course",
+      "passes under the inguinal ligament and enters the femoral vein",
+      "drains the medial side of the leg between the tibia and the tendocalcaneus"
+    ],
+    "a": 0,
+    "e": "It begins where the dorsal vein of the great toe merges with the dorsal venous arch."
+  },
+  {
+    "q": "A 30 year old man presents with adenopathy of the medial group of superficial inguinal lymph nodes on the right side. Which of the following is the primary site resulting in this finding?",
+    "o": [
+      "right testis",
+      "right buttock",
+      "the skin of the right lower limb",
+      "the anal canal",
+      "none of the above"
+    ],
+    "a": 3,
+    "e": "The medial group receives lymph from the perineum, external genitalia, and the lower anal canal."
+  },
+  {
+    "q": "Regarding the femoral artery:",
+    "o": [
+      "it enters the thigh directly beneath the deep inguinal ring",
+      "it lies lateral to the femoral nerve in the femoral sheath",
+      "it gives rise to the profunda femoris artery which pierces the femoral sheath",
+      "does not contribute to the trochanteric anastomosis",
+      "its branches include the superficial epigastric artery and the deep external pudendal artery"
+    ],
+    "a": 4,
+    "e": "The superficial epigastric and deep external pudendal are direct branches of the femoral artery."
+  },
+  {
+    "q": "The psoas muscle:",
+    "o": [
+      "passes across the front of the capsule of the hip joint",
+      "is a powerful lateral rotator of the femur",
+      "inserts into the greater trochanter",
+      "is supplied by L4 and L5 nerve roots",
+      "arises from the iliac crest and sacroiliac joint"
+    ],
+    "a": 0,
+    "e": "The psoas tendon crosses directly anterior to the hip joint capsule, often separated by a bursa."
+  },
+  {
+    "q": "The femoral nerve:",
+    "o": [
+      "is formed from the anterior divisions of the anterior primary rami of L2-4",
+      "is formed from the same spinal segments as the obturator nerve",
+      "divides after passing through the femoral triangle",
+      "has no cutaneous branches other than the saphenous nerve",
+      "enters the thigh in the femoral sheath"
+    ],
+    "a": 1,
+    "e": "Both the femoral and obturator nerves arise from the L2, L3, and L4 spinal segments."
+  },
+  {
+    "q": "Which structure does NOT pass under the inguinal ligament?",
+    "o": [
+      "femoral vein",
+      "lateral cutaneous nerve of the thigh",
+      "femoral nerve",
+      "femoral branch of the genitofemoral nerve",
+      "great saphenous vein"
+    ],
+    "a": 4,
+    "e": "The great saphenous vein runs superficially and pierces the fascia lata; it does not pass deep to the inguinal ligament."
+  },
+  {
+    "q": "Regarding the femoral triangle:",
+    "o": [
+      "adductor magnus makes up part of the floor",
+      "no motor branches of the femoral nerve leave the triangle to enter the sartorius canal",
+      "the femoral artery occupies the lateral compartment of the femoral sheath",
+      "the main cutaneous nerve supply of the skin overlying the triangle is by the ilioinguinal nerve",
+      "the femoral vein lies medial to the femoral artery throughout the triangle"
+    ],
+    "a": 2,
+    "e": "The femoral sheath contains the artery laterally, the vein intermediately, and the canal medially."
+  },
+  {
+    "q": "In the femoral triangle:",
+    "o": [
+      "the femoral nerve emerges from the femoral sheath",
+      "the saphenous nerve lies medial to the femoral artery at the apex",
+      "the genitofemoral nerve pierces the anterior surface of the femoral sheath",
+      "the profunda femoris artery arises from the medial aspect of the femoral artery",
+      "the obturator nerve passes anterior to pectineus"
+    ],
+    "a": 2,
+    "e": "The femoral branch of the genitofemoral nerve pierces the anterior wall of the femoral sheath to supply skin."
+  },
+  {
+    "q": "The iliotibial tract is the conjoined aponeurosis of the tensor fasciae lata and:",
+    "o": [
+      "gluteus minimus",
+      "gluteus medius",
+      "gluteus maximus",
+      "Camper’s fascia",
+      "Scarpa’s fascia"
+    ],
+    "a": 2,
+    "e": "The gluteus maximus (major portion) and tensor fasciae latae insert into the iliotibial tract."
+  },
+  {
+    "q": "The base of Scarpa’s femoral triangle is formed by:",
+    "o": [
+      "sartorius",
+      "adductor longus",
+      "inguinal ligament",
+      "pubic tubercle",
+      "none of the above"
+    ],
+    "a": 2,
+    "e": "The inguinal ligament forms the superior border (base) of the femoral triangle."
+  },
+  {
+    "q": "The skin crease of the hip:",
+    "o": [
+      "is where the inguinal ligament is attached to the fascia lata",
+      "is where the external oblique aponeurosis is joined to Scarpa’s fascia",
+      "is where Scarpa’s fascia is attached to the fascia lata",
+      "is mainly supplied by the femoral nerve",
+      "none of the above"
+    ],
+    "a": 2,
+    "e": "Scarpa's fascia (membranous layer of abdominal superficial fascia) fuses with the fascia lata just below the inguinal ligament, forming the skin crease."
+  },
+  {
+    "q": "The surface marking for the femoral nerve is:",
+    "o": [
+      "midway between the A.S.I.S. and pubic tubercle",
+      "midway between the A.S.I.S. and pubic synthesis",
+      "medial to the femoral artery",
+      "2cm lateral and 2cm interior to the pubic tubercle",
+      "none of the above"
+    ],
+    "a": 0,
+    "e": "The femoral nerve passes deep to the midpoint of the inguinal ligament (between ASIS and pubic tubercle)."
+  },
+  {
+    "q": "Which of the following is true of the saphenous nerve?",
+    "o": [
+      "is predominantly from L2",
+      "supplies adductor magnus",
+      "pierces the deep fascia in the femoral triangle",
+      "is cutaneous only",
+      "terminates just below the knee"
+    ],
+    "a": 3,
+    "e": "The saphenous nerve is the largest cutaneous (sensory) branch of the femoral nerve and contains no motor fibers."
+  },
+  {
+    "q": "The superficial epigastric, superior perforating and deep external pudendal arteries are all branches of:",
+    "o": [
+      "profunda femoris",
+      "popliteal",
+      "internal iliac",
+      "external iliac",
+      "none of the above"
+    ],
+    "a": 4,
+    "e": "These are branches of the femoral artery (assuming 'superior perforating' refers to superficial circumflex iliac), which is not listed."
+  },
+  {
+    "q": "The intermediate cutaneous nerve of the thigh:",
+    "o": [
+      "arises from the sacral plexus",
+      "is a branch of the obturator nerve",
+      "pierces sartorius",
+      "extends beneath the knee",
+      "arises independently of the medial cutaneous nerve of the thigh"
+    ],
+    "a": 2,
+    "e": "The intermediate cutaneous nerve of the thigh typically pierces the sartorius muscle to become superficial."
+  },
+  {
+    "q": "A 22-year-old patient is unable to “unlock” the knee joint to permit ﬂexion of the leg. Which of the following muscles is most likely damaged?",
+    "o": [
+      "Rectus femoris",
+      "Semimembranosus",
+      "Popliteus",
+      "Gastrocnemius",
+      "Biceps femoris"
+    ],
+    "a": 2,
+    "e": "The popliteus muscle laterally rotates the femur on the tibia, 'unlocking' the extended knee to allow flexion."
+  },
+  {
+    "q": "A patient with hereditary blood clotting problems presents with pain in the back of her knee. An arteriogram reveals a blood clot in the popliteal artery at its proximal end. Which of the following arteries will allow blood to reach the foot?",
+    "o": [
+      "Anterior tibial",
+      "Posterior tibial",
+      "Peroneal",
+      "Lateral circumﬂex femoral",
+      "Superior medial genicular"
+    ],
+    "a": 3,
+    "e": "The descending branch of the lateral circumflex femoral artery anastomoses with genicular arteries, providing collateral circulation bypassing the proximal popliteal."
+  },
+  {
+    "q": "Before knee surgery, a surgeon ligates arteries participating in the anastomosis around the knee joint. Which of the following arteries is most likely spared?",
+    "o": [
+      "Lateral superior genicular",
+      "Medial inferior genicular",
+      "Descending branch of the lateral femoral circumﬂex",
+      "Saphenous branch of the descending genicular",
+      "Anterior tibial recurrent"
+    ],
+    "a": 3,
+    "e": "The saphenous branch supplies skin and superficial structures, not directly participating in the deep genicular articular anastomosis."
+  },
+  {
+    "q": "A patient presents with a thrombosis in the popliteal vein. This thrombosis most likely causes reduction of blood ﬂow in which of the following veins?",
+    "o": [
+      "Greater saphenous",
+      "Lesser saphenous",
+      "Femoral",
+      "Posterior tibial",
+      "Anterior tibial"
+    ],
+    "a": 2,
+    "e": "The popliteal vein drains directly into the femoral vein; a blockage in the popliteal vein reduces forward flow into the femoral vein."
+  },
+  {
+    "q": "All of the following statements concerning the popliteal fossa are correct EXCEPT",
+    "o": [
+      "The biceps femoris forms the superolateral border.",
+      "The semimembranosus forms the superomedial border.",
+      "It contains both the tibial and common ﬁbular nerves.",
+      "The lateral and medial heads of the gastrocnemius form the inferolateral and inferomedial borders.",
+      "It contains the great saphenous vein."
+    ],
+    "a": 4,
+    "e": "The popliteal fossa contains the small (lesser) saphenous vein, while the great saphenous vein runs medially outside the fossa."
+  },
+  {
+    "q": "Which statement about the popliteal fossa is not true?",
+    "o": [
+      "Is bounded superolaterally by biceps femoris.",
+      "Contains the popliteal artery as the deepest structure.",
+      "Usually contains the bifurcation of the sciatic nerve.",
+      "Contains the long saphenous vein in its roof.",
+      "Contains the formation of the sural nerve."
+    ],
+    "a": 3,
+    "e": "The roof of the popliteal fossa contains the short (small) saphenous vein, not the long (great) one."
+  },
+  {
+    "q": "The following structures contribute to the boundaries of the popliteal fossa except the:",
+    "o": [
+      "Semimembranosus muscle",
+      "Plantaris",
+      "Biceps femoris",
+      "Medial head of the gastrocnemius muscle",
+      "Soleus"
+    ],
+    "a": 4,
+    "e": "The soleus muscle is located deep in the leg and does not form a boundary of the popliteal fossa."
+  },
+  {
+    "q": "Position of the popliteal artery relative to the popliteal veins on the popliteal surface of the femur is:",
+    "o": [
+      "Medial",
+      "Lateral",
+      "Posterior",
+      "Anterior",
+      "Supeior"
+    ],
+    "a": 3,
+    "e": "The popliteal artery is the deepest structure, lying directly against the bone (anterior to the vein)."
+  },
+  {
+    "q": "Which of the following muscles is innervated by the tibial nerve?",
+    "o": [
+      "Popliteus",
+      "Semimembranosus",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "a": 2,
+    "e": "Both popliteus and semimembranosus are innervated by the tibial nerve."
+  },
+  {
+    "q": "The femoral artery passes from the anterior side of the thigh to the back of the knee where it becomes the popliteal artery. It passes through an opening:",
+    "o": [
+      "Between the long and short head of biceps femoris",
+      "Between abductor longus and adductor brevis",
+      "Between two parts of adductor magnus",
+      "Between semitendinosus and semimembranosus",
+      "Between vastus medialis and lateralis"
+    ],
+    "a": 2,
+    "e": "The adductor hiatus is a gap between the adductor and hamstring parts of the adductor magnus muscle."
+  },
+  {
+    "q": "Which of the following muscles does not cross the knee joint?",
+    "o": [
+      "Semimembranosus",
+      "Semitendinosus",
+      "Gracilis",
+      "Sartorius",
+      "Adductor magnus"
+    ],
+    "a": 4,
+    "e": "Adductor magnus inserts onto the linea aspera and adductor tubercle of the femur, without crossing the knee."
+  },
+  {
+    "q": "In the popliteal fossa:",
+    "o": [
+      "Popliteal artery is the deepest of its contents",
+      "Upper medial boundary is formed by sartorius and semitendinosus",
+      "Small saphenous vein pierces its roof to enter the popliteal vein",
+      "Upper lateral boundary is formed by lateral head of gastrocnemias",
+      "Plantaris lies in its floor"
+    ],
+    "a": 0,
+    "e": "The popliteal artery lies deepest, directly against the popliteal surface of the femur and joint capsule."
+  },
+  {
+    "q": "Which of the following muscles passes out of the knee joint to reach the tibia?",
+    "o": [
+      "plantaris",
+      "popliteus",
+      "sartorius",
+      "gracilis",
+      "none of above"
+    ],
+    "a": 1,
+    "e": "The popliteus tendon emerges from the lateral side of the knee joint capsule to insert on the posterior tibia."
+  },
+  {
+    "q": "The small saphenous vein empties into which of the following veins?",
+    "o": [
+      "femoral v.",
+      "tibial v.",
+      "popliteal v.",
+      "great saphenous v.",
+      "Dorsal venous arch"
+    ],
+    "a": 2,
+    "e": "The small saphenous vein terminates by draining into the popliteal vein within the popliteal fossa."
+  },
+  {
+    "q": "Regarding the popliteal fossa, which of the following statements is true?",
+    "o": [
+      "the common peroneal nerve slopes downwards lateral to the biceps tendon",
+      "the sural nerve is a cutaneous branch of the common peroneal nerve",
+      "the middle genicular artery of the popliteal artery supply the cruciate ligaments",
+      "the popliteus muscle is supplied by a branch of the common peroneal nerve",
+      "the recurrent genicular nerve is a branch of the tibial nerve"
+    ],
+    "a": 2,
+    "e": "The middle genicular artery pierces the oblique popliteal ligament to supply the cruciate ligaments inside the knee joint."
+  },
+  {
+    "q": "Regarding the popliteal vessels:",
+    "o": [
+      "the tibial nerve lies between the popliteal artery and vein",
+      "the sural arteries supply soleus",
+      "the middle genicular artery supplies the cruciate ligaments",
+      "lymph nodes lie alongside the popliteal artery",
+      "the popliteal artery enters the fossa on the lateral side of the femur"
+    ],
+    "a": 2,
+    "e": "The middle genicular artery is specialized to supply the internal joint structures, including the cruciate ligaments."
+  },
+  {
+    "q": "Which of the following does NOT apply to the popliteus muscle?",
+    "o": [
+      "it inserts into the lateral meniscus of the knee joint",
+      "it is innervated by the tibial nerve",
+      "it acts to extend the knee joint",
+      "it inserts into the lateral condyle of the femur",
+      "it acts to laterally rotate the femur of the fixed tibia"
+    ],
+    "a": 2,
+    "e": "The popliteus is a flexor and rotator of the knee, not an extensor."
+  },
+  {
+    "q": "Regarding the popliteal fossa:",
+    "o": [
+      "the common peroneal nerve passes through the lateral part of the fossa",
+      "it contains no lymph nodes",
+      "it has a roof pierced by the tibial nerve",
+      "the popliteal artery lies superficial to the popliteal vein throughout the fossa",
+      "the small saphenous vein joins the popliteal vein before its entry into the fossa"
+    ],
+    "a": 0,
+    "e": "The common peroneal nerve descends following the medial border of the biceps femoris in the lateral part of the fossa."
+  },
+  {
+    "q": "The popliteal artery:",
+    "o": [
+      "is superficial to the tibial nerve",
+      "extends from the hiatus in adductor longus",
+      "enters the popliteal fossa on lateral aspect of the femur",
+      "has four genicular branches in fossa",
+      "supplies the cruciate ligaments"
+    ],
+    "a": 4,
+    "e": "Via its middle genicular branch, the popliteal artery supplies the deep structures of the knee including cruciate ligaments."
+  },
+  {
+    "q": "Which of the following is found in the popliteal fossa?",
+    "o": [
+      "sciatic nerve",
+      "femoral vein",
+      "common peroneal nerve",
+      "femoral artery",
+      "saphenous nerve"
+    ],
+    "a": 2,
+    "e": "The common peroneal nerve is a key neural component traveling through the lateral popliteal fossa."
+  },
+  {
+    "q": "In the popliteal fossa, the deepest of these structures is:",
+    "o": [
+      "popliteal vein",
+      "popliteal artery",
+      "tibial nerve",
+      "sural nerve",
+      "plantaris muscle"
+    ],
+    "a": 1,
+    "e": "The popliteal artery is the deepest major structure, lying closest to the skeletal plane."
+  },
+  {
+    "q": "In the upper part of the popliteal fossa the following are found from medial to lateral:",
+    "o": [
+      "popliteal artery, popliteal vein, sciatic nerve",
+      "popliteal vein, popliteal artery, sciatic nerve",
+      "sciatic nerve, popliteal artery, popliteal vein",
+      "sciatic nerve, popliteal vein, popliteal artery",
+      "popliteal artery, sciatic nerve, popliteal vein"
+    ],
+    "a": 0,
+    "e": "From deep/medial to superficial/lateral, the order is Artery, Vein, Nerve (AVN)."
+  },
+  {
+    "q": "20-year-old patient cannot ﬂex and medially rotate the thigh while running and climbing. Which of the following muscles is most likely damaged?",
+    "o": [
+      "Semimembranosus",
+      "Sartorius",
+      "Rectus femoris",
+      "Vastus intermedius",
+      "Tensor fasciae latae"
+    ],
+    "a": 4,
+    "e": "The tensor fasciae latae acts to flex, abduct, and medially rotate the thigh."
+  },
+  {
+    "q": "A patient experiences paralysis of the muscle that originates from the femur and contributes directly to the stability of the knee joint. Which of the following muscles is involved?",
+    "o": [
+      "Vastus lateralis",
+      "Semimembranosus",
+      "Sartorius",
+      "Biceps femoris (long head)",
+      "Rectus femoris"
+    ],
+    "a": 0,
+    "e": "Vastus lateralis originates from the femur and powerfully stabilizes the knee during extension."
+  },
+  {
+    "q": "A 24-year-old woman complains of weakness when she extends her thigh and rotates it laterally. Which of the following muscles is paralyzed?",
+    "o": [
+      "Obturator externus",
+      "Sartorius",
+      "Tensor fasciae latae",
+      "Gluteus maximus",
+      "Semitendinosus"
+    ],
+    "a": 3,
+    "e": "Gluteus maximus is the primary extensor and a lateral rotator of the thigh."
+  },
+  {
+    "q": "The obturator nerve and the sciatic (tibial portion) nerve of a 15-year-old boy are transected as a result of a motorcycle accident. This injury would result in complete paralysis of which of the following muscles?",
+    "o": [
+      "Rectus femoris",
+      "Biceps femoris, short head",
+      "Pectineus",
+      "Adductor magnus",
+      "Sartorius"
+    ],
+    "a": 3,
+    "e": "Adductor magnus has dual innervation: obturator nerve (adductor part) and tibial nerve (hamstring part)."
+  },
+  {
+    "q": "A patient has weakness when ﬂexing both her thigh and leg. Which of the following muscles is most likely injured?",
+    "o": [
+      "Rectus femoris",
+      "Semitendinosus",
+      "Biceps femoris",
+      "Sartorius",
+      "Adductor longus"
+    ],
+    "a": 3,
+    "e": "Sartorius is unique in that it flexes both the hip (thigh) and the knee (leg)."
+  },
+  {
+    "q": "A 28-year-old basketball player falls while rebounding and is unable to run and jump. On physical examination, he has pain and weakness when extending his thigh and ﬂexing his leg. Which muscle involved in both movements is most likely injured?",
+    "o": [
+      "Short head of biceps femoris",
+      "Adductor magnus",
+      "Semitendinosus",
+      "Sartorius",
+      "Gracilis"
+    ],
+    "a": 2,
+    "e": "Hamstrings (like semitendinosus) both extend the thigh and flex the leg."
+  },
+  {
+    "q": "Which of the following muscles is located in the posterior aspect of the thigh?",
+    "o": [
+      "semitendinosus",
+      "gluteus maximus",
+      "piriformis",
+      "internal obturator",
+      "superior gemellus"
+    ],
+    "a": 0,
+    "e": "Semitendinosus is one of the three hamstring muscles in the posterior compartment of the thigh."
+  },
+  {
+    "q": "All of the following statements concerning the hamstring muscles are correct EXCEPT",
+    "o": [
+      "They are extensors of the thigh.",
+      "They are ﬂexors of leg.",
+      "A person with paralyzed hamstrings tends to fall backwards.",
+      "Most take origin from the ischial tuberosity.",
+      "Most are innervated by the tibial division of the sciatic nerve."
+    ],
+    "a": 2,
+    "e": "Hamstrings extend the hip to maintain posture; paralysis causes the trunk to fall forward, not backward."
+  },
+  {
+    "q": "The innervation for the short head of the biceps is provided by which of the following nerves?",
+    "o": [
+      "obturator",
+      "femoral",
+      "tibial division of the sciatic",
+      "ﬁbular division of the sciatic",
+      "sartorius"
+    ],
+    "a": 3,
+    "e": "The short head of biceps femoris is uniquely innervated by the common fibular (peroneal) division of the sciatic nerve."
+  },
+  {
+    "q": "A line drawn from the anterior superior iliac spine to the ischial tuberosity (Nelaton’s line), passing over the lateral aspect of the hip, normally passes over which of the following structures?",
+    "o": [
+      "sciatic nerve",
+      "ischial spine",
+      "obturator canal",
+      "pudendal nerve",
+      "greater trochanter"
+    ],
+    "a": 4,
+    "e": "Nelaton's line normally passes exactly over the tip of the greater trochanter of the femur."
+  },
+  {
+    "q": "Which statement best describes the posterior compartment of the thigh?",
+    "o": [
+      "The common origin for the posterior thigh muscles (hamstrings) is the ischial spine.",
+      "Adductor magnus is a muscle of the posterior compartment.",
+      "All the hamstring muscles are innervated by the obturator nerve.",
+      "Both heads of biceps femoris take origin from the pelvis.",
+      "Most of the skin overlying the posterior aspect of the thigh is innervated by the sciatic nerve."
+    ],
+    "a": 1,
+    "e": "The hamstring part of the adductor magnus functions and is innervated identically to the posterior compartment muscles."
+  },
+  {
+    "q": "Hyperextension of the hip joint is prevented by:",
+    "o": [
+      "Obturator internus tendon",
+      "Ischiofemoral ligament",
+      "Tensor fascia lata muscle",
+      "Iliotibial tract",
+      "Ligamentum teres"
+    ],
+    "a": 1,
+    "e": "The ischiofemoral ligament, along with the powerful iliofemoral ligament, tightens during extension to prevent hyperextension."
+  },
+  {
+    "q": "Muscles attached to the ischial tuberosity include all except:",
+    "o": [
+      "Inferior gamellus",
+      "Adductor magnus",
+      "Long head of biceps femoris muscle",
+      "Gluteus medius",
+      "Semitendinousus"
+    ],
+    "a": 3,
+    "e": "Gluteus medius originates from the outer surface of the ilium, not the ischial tuberosity."
+  },
+  {
+    "q": "Short head of biceps femoris is innervated by which of the following nerves:",
+    "o": [
+      "Superficial peroneal nerve",
+      "Deep peroneal nerve",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "a": 3,
+    "e": "It is innervated by the common peroneal nerve prior to its division into superficial and deep branches."
+  },
+  {
+    "q": "Tibialis posterior:",
+    "o": [
+      "Takes its origin from the tibia",
+      "Takes its origin from the fibula",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "a": 2,
+    "e": "Tibialis posterior originates from the posterior surfaces of BOTH the tibia and fibula, and the interosseous membrane."
+  },
+  {
+    "q": "Which muscle(s) is capable of producing flexion at one joint and extension at a second joint?",
+    "o": [
+      "Semimembranosus",
+      "Rectus femoris",
+      "Lumbricals of foot",
+      "Long head of biceps femoris",
+      "All of the above"
+    ],
+    "a": 4,
+    "e": "All listed muscles cross two functional joints with opposing actions at each."
+  },
+  {
+    "q": "Which of the following is not normally a branch of the profunda femoris artery?",
+    "o": [
+      "Obturator",
+      "Medial femoral circumflex",
+      "Lateral femoral circumflex",
+      "Its perforating artery",
+      "4 th perforating artery"
+    ],
+    "a": 0,
+    "e": "The obturator artery is a branch of the internal iliac artery, not the profunda femoris."
+  },
+  {
+    "q": "The principal blood supply to the posterior compartment of the thigh comes directly from:",
+    "o": [
+      "The femoral artery",
+      "Perforating branches from the profunda artery",
+      "The obturator artery",
+      "The popliteal artery",
+      "The tibial artery"
+    ],
+    "a": 1,
+    "e": "The perforating arteries from profunda femoris pierce the adductor magnus to supply the posterior thigh."
+  },
+  {
+    "q": "All of the following are innervated by branches of the femoral nerve except:",
+    "o": [
+      "Sartorius",
+      "Gracilis",
+      "Rectus femoris",
+      "Vastus medialis",
+      "Pectineus"
+    ],
+    "a": 1,
+    "e": "Gracilis is a medial compartment muscle innervated by the obturator nerve."
+  },
+  {
+    "q": "Tbe largest nerve of the body ls:",
+    "o": [
+      "sural nerve",
+      "sciatic nerve",
+      "femoral nerve",
+      "radial nerve",
+      "saphenous nerve"
+    ],
+    "a": 1,
+    "e": "The sciatic nerve is the thickest and longest nerve in the human body."
+  },
+  {
+    "q": "Which vessel is NOT involved in the trochanteric anastomosis?",
+    "o": [
+      "superior gluteal artery",
+      "obturator artery",
+      "lateral circumflex femoral artery",
+      "medial circumflex femoral artery",
+      "inferior gluteal artery"
+    ],
+    "a": 1,
+    "e": "The obturator artery does not routinely participate in the trochanteric anastomosis."
+  },
+  {
+    "q": "The sciatic nerve:",
+    "o": [
+      "lies deep to the posterior femoral cutaneous nerve",
+      "passes down over obturator internus, quadratus, femoris and piriformis",
+      "tibial and common peroneal components separate behind the hip joint",
+      "in the buttock it lies midway between the greater trochanter and pubic tuberosity",
+      "is derived from L3, 4, 5, S1, 2"
+    ],
+    "a": 0,
+    "e": "In the gluteal region, the posterior femoral cutaneous nerve runs superficially on the posterior aspect of the sciatic nerve."
+  },
+  {
+    "q": "Which is the odd one out?",
+    "o": [
+      "sciatic nerve",
+      "nerve to obturator internus",
+      "superior gluteal nerve",
+      "pudendal nerve",
+      "posterior femoral cutaneous nerve"
+    ],
+    "a": 2,
+    "e": "The superior gluteal nerve is the only one to exit the pelvis ABOVE the piriformis muscle."
+  },
+  {
+    "q": "Regarding the hamstring compartment:",
+    "o": [
+      "the cutaneous nerve supply is from the posterior circumflex femoral nerve",
+      "ischial fibres of adductor magnus degenerate to form the tibial collateral ligament",
+      "semitendinosus lies deep to semimembranosus",
+      "the oblique popliteal ligament is an expansion of biceps femoris",
+      "the long head of biceps arises from the lateral facet of the ischial tuberosity"
+    ],
+    "a": 1,
+    "e": "Embryologically, the tibial collateral ligament is considered a degenerated tendon of the adductor magnus (ischial part)."
+  },
+  {
+    "q": "The profunda femoris artery does not:",
+    "o": [
+      "normally supply all the thigh muscles",
+      "arise from the lateral side of the femoral artery, 3-4cm distal to the inguinal ligament",
+      "give off the deep external pudendal artery",
+      "lie behind the profunda vein",
+      "lie directly anterior to adductor brevis and magnus"
+    ],
+    "a": 2,
+    "e": "The deep external pudendal artery is a branch of the femoral artery directly, not the profunda."
+  },
+  {
+    "q": "The posterior cutaneous nerve of the thigh:",
+    "o": [
+      "consists only of S2, 3",
+      "travels most of its course superficial to the fascia lata",
+      "innervates a small area on the labia majora",
+      "emerges above pinforris",
+      "none of the above"
+    ],
+    "a": 2,
+    "e": "It gives off perineal branches that innervate the posterior scrotum or labia majora."
+  },
+  {
+    "q": "With respect to the posterior compartment of the thigh:",
+    "o": [
+      "blood supply is mainly from the femoral artery",
+      "the sciatic nerve lies lateral to the long head of biceps",
+      "the long head of biceps is supplied by the common peroneal nerve",
+      "the hamstrings form the apex of the popliteal fossa",
+      "semimembranosus arises in common with the long head of biceps"
+    ],
+    "a": 3,
+    "e": "The diverging hamstring muscles form the superior boundaries (apex) of the popliteal fossa."
+  },
+  {
+    "q": "The surface markings of the sciatic nerve are from:",
+    "o": [
+      "the ischial tuberosity to the adductor tubercle of the medial femoral condyle",
+      "the posterior superior iliac spine to the apex of the popliteal fossa",
+      "the midpoint of a line between the ischial tuberosity and the greater trochanter to the adductor tubercle of the medial femoral condyle",
+      "the ischial tuberosity to the apex of the popliteal fossa",
+      "the midpoint of a line between ischial tuberosity and greater trochanter to apex of the popliteal fossa"
+    ],
+    "a": 4,
+    "e": "The nerve descends from midway between the ischial tuberosity and greater trochanter down to the apex of the popliteal fossa."
+  },
+  {
+    "q": "The hamstring muscles originate from:",
+    "o": [
+      "body of the ischium",
+      "ramus of the pubis",
+      "iliac crest",
+      "ischial tuberosity",
+      "symphysis pubis"
+    ],
+    "a": 3,
+    "e": "All true hamstring muscles originate from the ischial tuberosity."
+  },
+  {
+    "q": "Which of the following is NOT a branch of the profunda femoris artery?",
+    "o": [
+      "medial femoral circumflex",
+      "lateral femoral circumflex",
+      "popliteal",
+      "perforating",
+      "all are branches of the profunda"
+    ],
+    "a": 2,
+    "e": "The popliteal artery is the direct continuation of the femoral artery, not a branch of the profunda."
+  },
+  {
+    "q": "A 17-year-old boy was stabbed during a gang ﬁght resulting in transection of the obturator nerve. Which of the following muscles is completely paralyzed?",
+    "o": [
+      "Pectineus",
+      "Adductor magnus",
+      "Adductor longus",
+      "Biceps femoris",
+      "Semimembranosus"
+    ],
+    "a": 2,
+    "e": "Adductor longus is exclusively innervated by the obturator nerve."
+  },
+  {
+    "q": "Which of the following statements concerning the gracilis muscle is correct?",
+    "o": [
+      "It passes through the lesser sciatic foramen.",
+      "It crosses the knee joint.",
+      "It lies deep to the pectineus and adductor longus muscles.",
+      "It is located in the anterior compartment of the thigh.",
+      "It is a short, fan-shaped muscle."
+    ],
+    "a": 1,
+    "e": "Gracilis is the only medial compartment muscle that crosses the knee joint to insert on the tibia."
+  },
+  {
+    "q": "All of the following statements concerning the adductor magnus are correct EXCEPT",
+    "o": [
+      "It is the largest muscle in the adductor group.",
+      "It is located in the posterior compartment of the thigh.",
+      "It has adductor and hamstring parts.",
+      "It is a composite, triangular muscle with two parts that differ in nerve supply.",
+      "Its main action is to adduct the thigh."
+    ],
+    "a": 1,
+    "e": "Adductor magnus is technically classified within the medial (adductor) compartment of the thigh, despite its hamstring part."
+  },
+  {
+    "q": "Which of the following statements correctly applies to the adductor hiatus?",
+    "o": [
+      "It is an opening in the aponeurotic distal attachment of the adductor longus.",
+      "It transmits the femoral nerve, artery and vein.",
+      "The opening is located just inferior to the adductor tubercle of the femur.",
+      "It extends from the adductor canal in the thigh to the popliteal fossa.",
+      "The great saphenous vein passes through the adductor hiatus."
+    ],
+    "a": 3,
+    "e": "The hiatus allows vessels to pass from the adductor canal anteriorly into the popliteal fossa posteriorly."
+  },
+  {
+    "q": "All of the following statements concerning the adductor canal are correct EXCEPT",
+    "o": [
+      "It is approximately 15 cm long.",
+      "It extends from the apex of the femoral triangle to the adductor hiatus.",
+      "It contains the saphenous nerve.",
+      "Is is bounded posteriorly by the sartorius muscle.",
+      "It contains the femoral artery and vein."
+    ],
+    "a": 3,
+    "e": "The sartorius muscle forms the anteromedial roof of the canal, not its posterior boundary."
+  },
+  {
+    "q": "Which of the following statements incorrectly describes the relations of the hip joint?",
+    "o": [
+      "Rectus femoris is a superior relation.",
+      "Obturator externus is an inferior relation.",
+      "The iliotibial tract is a lateral relation.",
+      "The femoral vein is an anterior relation.",
+      "Pectineus is a lateral relation."
+    ],
+    "a": 4,
+    "e": "Pectineus is located anteriorly and medially, not laterally to the hip joint."
+  },
+  {
+    "q": "Which statement best describes the medial compartment of the thigh?",
+    "o": [
+      "Adductor magnus, longus and brevis insert onto the linea aspera.",
+      "All the muscles of the medial compartment are innervated by the obturator nerve.",
+      "All the muscles of the medial compartment take origin from the ischium.",
+      "The obturator nerve is split into anterior and posterior divisions by adductor longus.",
+      "All the muscles of the medial compartment insert onto the femur."
+    ],
+    "a": 0,
+    "e": "The linea aspera serves as the primary linear insertion site for the three main adductor muscles."
+  },
+  {
+    "q": "Which of these statements about the adductor canal is incorrect?",
+    "o": [
+      "It is the communication between the femoral triangle and popliteal fossa.",
+      "It is bordered posteriorly by adductor longus and magnus.",
+      "It contains the nerve to vastus medialis.",
+      "The saphenous nerve exits the canal medially.",
+      "The femoral artery exits through a hiatus in adductor longus."
+    ],
+    "a": 4,
+    "e": "The femoral artery exits through the adductor hiatus, which is in the adductor magnus, not longus."
+  },
+  {
+    "q": "The following structures pass through the subsartorial canal except the:",
+    "o": [
+      "Posterior division of the obturator nerve",
+      "Saphenous nerve",
+      "Femoral artery",
+      "Nerve to the vastus intermedius",
+      "Femoral vein"
+    ],
+    "a": 3,
+    "e": "The nerve to the vastus medialis passes through the canal, while the nerve to the vastus intermedius does not."
+  },
+  {
+    "q": "The lymph drainage of the skin covering the medial side of the knee joint is into the:",
+    "o": [
+      "Popliteal nodes",
+      "Internal iliac nodes",
+      "Vertical group of superficial inguinal nodes",
+      "Horizontal group of superficial inguinal nodes",
+      "Obturator nodes"
+    ],
+    "a": 2,
+    "e": "Lymph from the medial knee follows the great saphenous vein into the vertical group of superficial inguinal nodes."
+  },
+  {
+    "q": "The following facts regarding the obturator nerve are true except:",
+    "o": [
+      "It originates from the lumbar plexus",
+      "It enters the thigh immediately beneath the inguinal ligament",
+      "It innervates the adductor muscles of the thigh",
+      "It divides into an anterior and posterior division",
+      "It supplies the skin on the medial side of the thigh"
+    ],
+    "a": 1,
+    "e": "The obturator nerve enters the thigh by passing through the obturator canal, not beneath the inguinal ligament."
+  },
+  {
+    "q": "Which of the following muscles functions as an internal rotator of the hip:",
+    "o": [
+      "Iliopsoas",
+      "Sartorius",
+      "Gluteus medius",
+      "Obturator externus",
+      "Gluteus maximus"
+    ],
+    "a": 2,
+    "e": "The anterior fibers of the gluteus medius and minimus act as internal (medial) rotators of the hip."
+  },
+  {
+    "q": "Flexion of the knee can be produced by all of the following except:",
+    "o": [
+      "Adductor magnus",
+      "Short head of biceps femoris",
+      "Gastrocnemius",
+      "Sartorius",
+      "Gracilis"
+    ],
+    "a": 0,
+    "e": "Adductor magnus extends the hip and adducts the thigh; it does not cross the knee joint."
+  },
+  {
+    "q": "The cruciate anastomosis of the hip includes all the following arteries except:",
+    "o": [
+      "Medial femoral circumflex",
+      "Lateral femoral circumflex",
+      "Inferior gluteal",
+      "First perforating artery",
+      "Obturator artery"
+    ],
+    "a": 4,
+    "e": "The obturator artery does not contribute to the cruciate anastomosis."
+  },
+  {
+    "q": "Adductor magnus is innervated by which of the following?",
+    "o": [
+      "Femoral nerve",
+      "Obturator nerve",
+      "Deep peroneal nerve",
+      "Lateral plantar nerve",
+      "None of the above"
+    ],
+    "a": 1,
+    "e": "Adductor magnus is innervated by the obturator nerve (adductor part) and the sciatic nerve (hamstring part)."
+  },
+  {
+    "q": "Structures located in the subsartorial (adductor) canal include:",
+    "o": [
+      "Saphenous nerve",
+      "Popliteal vein",
+      "Great saphenous vein",
+      "Profunda femoris artery"
+    ],
+    "a": 0,
+    "e": "The saphenous nerve traverses the adductor canal along with the femoral artery and vein."
+  },
+  {
+    "q": "The cruciate anastomosis:",
+    "o": [
+      "Receives one of its major contributions from the obturator artery",
+      "Receives blood from the 1 st perforating artery",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "a": 1,
+    "e": "The first perforating branch of the profunda femoris forms the ascending inferior component of the cruciate anastomosis."
+  },
+  {
+    "q": "Obturator externus is innervated by which of the following nerves?",
+    "o": [
+      "Ilioinguinal nerve",
+      "Femoral nerve",
+      "Obturator nerve",
+      "Lateral femoral nerve",
+      "Genitofemoral nerve"
+    ],
+    "a": 2,
+    "e": "The obturator nerve exclusively innervates the obturator externus muscle."
+  },
+  {
+    "q": "Adductor magnus muscle:",
+    "o": [
+      "Derives blood supply from branches of profunda femoral artery",
+      "Gets nerve supply from femoral and obturator nerves",
+      "Inserts on the medial condyle of the tibia",
+      "Has partial origin from the ischial spine",
+      "All of the above"
+    ],
+    "a": 0,
+    "e": "The perforating branches of the profunda femoris artery pierce and supply the adductor magnus."
+  },
+  {
+    "q": "Which of the following statements is incorrect regarding the adductor magnus muscle?",
+    "o": [
+      "Supplied by tibial part of sciatic nerve",
+      "Inserted into adductor tubercle",
+      "Supplied by anterior division of obturator nerve",
+      "Femoral nerves pass through a gap in the muscle"
+    ],
+    "a": 2,
+    "e": "The adductor part of adductor magnus is innervated by the POSTERIOR division of the obturator nerve."
+  },
+  {
+    "q": "Select the correct statement about the adductor magnus:",
+    "o": [
+      "Arises from the posterior inferior iliac spine",
+      "Inserts entirely into the liner aspera",
+      "Flexor of the knee joint",
+      "Has a double nerve supply"
+    ],
+    "a": 3,
+    "e": "It is innervated by both the obturator nerve and the tibial portion of the sciatic nerve."
+  },
+  {
+    "q": "All of the following lie within the femoral triangle except:",
+    "o": [
+      "Femoral nerve",
+      "Profunda femoris artery",
+      "Obturator nerve",
+      "Long saphenous vein",
+      "Pectineus muscle"
+    ],
+    "a": 2,
+    "e": "The obturator nerve runs deeply in the medial compartment and is not a content of the femoral triangle."
+  },
+  {
+    "q": "Structures within the adductor (subartorial ; Hunter's) canal include all of the following except:",
+    "o": [
+      "Femoral artery",
+      "Great saphenous vein",
+      "Saphenous nerve",
+      "Nerve to vastus medialis"
+    ],
+    "a": 1,
+    "e": "The great saphenous vein is superficial and does not enter the deep adductor canal."
+  },
+  {
+    "q": "Which of the following statements correctly applied  to the adductor hiatus?",
+    "o": [
+      "It is an opening in the aponeurotic distal attachment of the adductor longus",
+      "it transmits the femoral nerve, artery and vein.",
+      "The opening is located just inferior to the adductor tubercle of the femur.",
+      "it extends from the adductor canal in the thigh to the popliteal fossa.",
+      "None of Above"
+    ],
+    "a": 3,
+    "e": "The adductor hiatus acts as a gateway from the adductor canal anteriorly to the popliteal fossa posteriorly."
+  },
+  {
+    "q": "Regarding the adductor compartment:",
+    "o": [
+      "adductor magnus lies between the anterior and posterior divisions of the obturator nerve",
+      "adductor longus inserts into the upper two thirds of the linear aspect of the femur",
+      "the hamstring part of adductor magnus is supplied by the tibial part of the sciatic nerve",
+      "the medial intermuscular septum separates the adductor compartment from the posterior compartment",
+      "obturator externus medially rotates the hip"
+    ],
+    "a": 2,
+    "e": "The hamstring part of adductor magnus originates from the ischial tuberosity and is supplied by the sciatic (tibial) nerve."
+  },
+  {
+    "q": "The adductor canal:",
+    "o": [
+      "contains the femoral artery and nerve",
+      "ends distally in the adductor longus hiatus",
+      "contains no muscular nerves",
+      "has adductor longus forming the root",
+      "always has the femoral artery lying between the saphenous nerve and the femoral vein"
+    ],
+    "a": 4,
+    "e": "In the canal, the femoral artery is positioned between the more laterally placed saphenous nerve and the posteriorly/laterally placed vein."
+  },
+  {
+    "q": "The great saphenous vein:",
+    "o": [
+      "joins the femoral vein above the inguinal ligament",
+      "begins as the upward continuation of the lateral marginal vein of the foot",
+      "travels with the saphenous nerve along its course",
+      "runs behind the medial malleolus",
+      "enters the femoral vein on its anteromedial side"
+    ],
+    "a": 4,
+    "e": "The great saphenous vein pierces the cribriform fascia to join the anteromedial aspect of the femoral vein."
+  },
+  {
+    "q": "Which of the following is CORRECT regarding lymphatic drainage of the lower limb?",
+    "o": [
+      "the superficial inguinal node group consists of about 15 nodes",
+      "the lateral nodes of the proximal superficial group receive lymph from the buttock, flank and back below the waist",
+      "the medial nodes of proximal superficial group receive lymph from testes, glans penis, lower anal canal and perineum",
+      "the distal nodes of the superficial group receive all the superficial lymphatics of the lower limb",
+      "the superficial inguinal nodes drain mainly to the internal iliac nodes"
+    ],
+    "a": 1,
+    "e": "The lateral superficial inguinal nodes drain the gluteal region and the lower abdominal wall below the umbilicus."
+  },
+  {
+    "q": "The adductor canal is not:",
+    "o": [
+      "roofed by fascia containing the subsartorial plexus",
+      "occupied by the sciatic nerve",
+      "also known as Hunter’s canal",
+      "occupied by the femoral artery",
+      "a gutter shaped groove between vastus medialis and the front of the adductor muscles"
+    ],
+    "a": 1,
+    "e": "The sciatic nerve is located in the posterior compartment, far removed from the anteriorly situated adductor canal."
+  },
+  {
+    "q": "The obturator nerve:",
+    "o": [
+      "adductor magnus",
+      "obturator internus",
+      "quadratus femoris",
+      "sartorius",
+      "inferior gemellus"
+    ],
+    "a": 0,
+    "e": "The obturator nerve supplies the adductor part of the adductor magnus."
+  },
+  {
+    "q": "Which of the following is INCORRECT regarding the adductor canal?",
+    "o": [
+      "sartorius lies on the fascial roof",
+      "in the distal part of the canal, the femoral vein is posterolateral to the artery",
+      "at all levels, the artery lies between saphenous nerve and femoral vein",
+      "the subsartorial plexus supplies overlying fascia lata and an area of skin above medial side of the knee",
+      "the adductors in the floor of the canal are the adductor brevis above and the adductor longus below"
+    ],
+    "a": 4,
+    "e": "The floor of the canal is formed by adductor longus above and adductor magnus below, not brevis."
+  },
+  {
+    "q": "In the medial compartment of the thigh:",
+    "o": [
+      "adductor magnus consists of adductor and hamstring muscle masses",
+      "the contents are separated from the posterior compartment by the posterior intermuscular septum",
+      "adductor longus is the most superficial muscle of the medial side of the thigh",
+      "the anterior division of the obturator nerve passes through obturator externes",
+      "the posterior division of the obturator nerve is the prime motor supply"
+    ],
+    "a": 0,
+    "e": "Adductor magnus is a composite muscle consisting of a medial adductor part and a posterior hamstring part."
+  },
+  {
+    "q": "Which of the following is correctly paired?",
+    "o": [
+      "adductor brevis – femoral nerve",
+      "adductor longus – sciatic nerve",
+      "adductor magnus – saphenous nerve",
+      "adductor longus – obturator nerve",
+      "adductor magnus – femoral nerve"
+    ],
+    "a": 3,
+    "e": "Adductor longus is exclusively innervated by the anterior division of the obturator nerve."
+  },
+  {
+    "q": "Adductor longus is inserted onto the:",
+    "o": [
+      "upper half of the linea aspera of the femur",
+      "upper two thirds of the linea aspera of the femur",
+      "upper one third of the linea aspera of the femur",
+      "lower two thirds of the linea aspera of the femur",
+      "lower half of the linea aspera of the femur"
+    ],
+    "a": 3,
+    "e": "It typically inserts along the middle to lower two-thirds of the linea aspera."
+  },
+  {
+    "q": "Which of the following is not an action of gracilis?",
+    "o": [
+      "adduction of thigh",
+      "flexion of knee",
+      "extension of thigh",
+      "medial rotation of the flexed knee",
+      "none of these"
+    ],
+    "a": 2,
+    "e": "Gracilis acts to adduct the thigh and flex the leg, but it does not extend the thigh."
+  }
+]
